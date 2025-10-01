@@ -50,7 +50,7 @@ with st.container(width=900,horizontal_alignment="center"):
     with col3:
     # UI control: select one Leading practice activity from the filtered list
         selected_Leading_prac_activity=st.radio(
-            label='Leading practice activity',
+            label='**Leading practice activity**',
             options=available_options,
             key='Leading_prac_activity'
 
