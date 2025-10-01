@@ -3,9 +3,11 @@ import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.styles import Alignment
 st.set_page_config(layout="wide")
-st.header("ICMM and INAP ARD/ML Decision Support System")
-st.write("--------------------------------")
+st.subheader("ICMM and INAP ARD/ML Decision Support System",divider = 'grey')
+#st.write("--------------------------------")
 
+link = '[ICMM](https://www.icmm.com/en-gb/guidance/environmental-stewardship/2025/ardml)'
+st.markdown("Notes on the ARD/ML Decision Support tool: "+link, unsafe_allow_html=True)
 # Load the core database of DSS records from the Excel workbook ("Database" sheet)
 # Note: the optional display below is useful for debugging the raw data shape
 #df=pd.read_excel('ICMM-INAP-ARD_ML-ToolUNLOCKED_Automatic Password setting removed.xlsm',sheet_name='Database')
@@ -25,7 +27,7 @@ Leading_prac_activity=df['Leading practice activity'].unique()
 with st.container(width=900,horizontal_alignment="center"):
     col1, col2, col3 = st.columns([20,60,20])
     with col2:
-        st.image("Picture1.png",width=1000)
+        st.image("Picture1.png",width=800)
     col1, col2, col3 = st.columns([20,40,40])
     with col2:
     # UI control: select one Asset development stage
@@ -40,7 +42,11 @@ with st.container(width=900,horizontal_alignment="center"):
     available_options=df[(df['Asset development stages']==selected_Asset_dev_stages) & (df['Content']!= "N")]
     available_options=available_options['Leading practice activity'].unique()
     #st.write("This is available options",available_options)  # Optional: inspect choices for debugging
-    st.write("--------------------------------")  # Visual separator for readability
+   
+    st.markdown("Output below")
+
+    #st.divider()  # Visual separator for readability
+
     with col3:
     # UI control: select one Leading practice activity from the filtered list
         selected_Leading_prac_activity=st.radio(
@@ -82,7 +88,7 @@ return_number = setup_number.loc[setup_number['Leading practice activity'] == se
 # Present a simple header section describing the generated support and selections
 col1, col2, col3 = st.columns([15,80,10])
 with col2:
-    st.header("**Leading Practice Area:** "+ leading_practice_area[0])
+    st.subheader("**Leading Practice Area:** "+ leading_practice_area[0])
     st.markdown("**Leading practice activity:** "+selected_Asset_dev_stages)
     st.markdown("**Asset development stage:** "+selected_Leading_prac_activity)
     
