@@ -7,7 +7,7 @@ st.subheader("ICMM and INAP ARD/ML Decision Support System",divider = 'grey')
 #st.write("--------------------------------")
 
 link = '[ICMM](https://www.icmm.com/en-gb/guidance/environmental-stewardship/2025/ardml)'
-st.markdown("Notes on the ARD/ML Decision Support tool: "+link, unsafe_allow_html=True)
+st.markdown("Notes on the ARD/ML prevention and management tool: "+link, unsafe_allow_html=True)
 # Load the core database of DSS records from the Excel workbook ("Database" sheet)
 # Note: the optional display below is useful for debugging the raw data shape
 #df=pd.read_excel('ICMM-INAP-ARD_ML-ToolUNLOCKED_Automatic Password setting removed.xlsm',sheet_name='Database')
