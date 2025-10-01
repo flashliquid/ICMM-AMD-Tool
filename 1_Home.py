@@ -3,7 +3,7 @@ import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.styles import Alignment
 st.set_page_config(layout="wide")
-st.subheader("ICMM and INAP ARD/ML Decision Support System")
+st.header("ICMM and INAP ARD/ML Decision Support System")
 st.write("--------------------------------")
 
 # Load the core database of DSS records from the Excel workbook ("Database" sheet)
