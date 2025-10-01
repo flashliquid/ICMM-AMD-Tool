@@ -82,9 +82,10 @@ return_number = setup_number.loc[setup_number['Leading practice activity'] == se
 # Present a simple header section describing the generated support and selections
 col1, col2, col3 = st.columns([15,80,10])
 with col2:
-    st.markdown("**Generated Support:** "+ leading_practice_area[0])
-    st.markdown("**Activity:** "+selected_Leading_prac_activity)
-    st.markdown("**Asset development stage:** "+selected_Asset_dev_stages)
+    st.header("**Leading Practice Area:** "+ leading_practice_area[0])
+    st.markdown("**Leading practice activity:** "+selected_Asset_dev_stages)
+    st.markdown("**Asset development stage:** "+selected_Leading_prac_activity)
+    
 
 # Build the record to display: locate the row with the selected DSS number,
 # drop metadata columns not intended for end-user display, and transpose so
