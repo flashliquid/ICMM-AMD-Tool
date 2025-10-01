@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit cache and state
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Local data/output
+Output data.xlsx
+*.xlsx
+*.xlsm
+*.zip
+*.bin
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+

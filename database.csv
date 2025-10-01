@@ -1,0 +1,843 @@
+﻿DSS No.,Asset development stages,Leading practice area,Leading practice activity,Context,Decision(s),Rationale,Information requirements,Technical and process considerations,Related ARD/ML leading practices areas/activities,Useful GARD Guide resources,Figure 1,Figure 2,Figure 3,Content
+1,Exploration,ARD/ML Governance and Strategy,Define ARD/ML Governance and Strategy at Corporate Level,,,,,,,,,,,N
+2,Exploration,"ARD/ML Objectives, Standards, and KPIs","Set ARD/ML Objectives, Standards, and KPIs at Asset Level",,,,,,,,,,,N
+3,Exploration,Develop and refine ARD/ML management plan,Characterisation,"Geochemical characterisation programs are designed to collect sufficient data to answer:
+(1) Is ARD/ML likely to occur and what are the potential sources?
+(2) What type of drainage chemistry is expected?
+(3) When is ARD/ML likely to start and how much will be generated?
+(4) What are the significant pathways that transport contaminants to the receiving environment and can those contaminants be attenuated along those pathways?
+(5) What are the anticipated environmental impacts?
+(6) What can be done to prevent or mitigate/manage ARD/ML?
+
+Figure 4-1 (GARD Guide) provides a characterisation road map. 
+
+For this asset development stage, leading practice focuses on question 1 “Is ARD/ML likely to occur?” Geochemical characterisation activities aim to identify potential ARD/ML risks. Characterisation activities for ARD/ML usually piggyback on exploration sampling and assaying activities (which focus on resource delineation) and can include:
+(1) Review of existing geological information or information from analogue sites or geoenvironmental models for similar ore types
+(2) Inclusion of ARD/ML diagnostic parameters such as total sulphur and inorganic carbon in exploration assays",(1) Should ARD/ML risks be assessed and how?,"Early identification of potential ARD/ML risks associated with a potential ore deposit allows for informed consideration of ARD/ML risks in asset development and early economic evaluation, and the development of informed objectives for the asset. Data obtained during the exploration stage provide opportunities to refine and focus subsequent sampling campaigns for geochemical characterisation.","(1) Available geological information on ore body including: (a) geological (conceptual) model of ore deposit, (b) ore genesis and host rock controls, (c) mineralogy of ore and host rock, and (d) information from analogue sites or geoenvironmental models for similar ore deposits
+(2) Exploration sampling and analyses plan
+(3) List of assay parameters","(1) Available data (geology, analogue sites, geo-environmental models) help determine the potential for sulphide minerals to be present in either the ore or host rock. 
+(2) Aim to include total sulphur and total inorganic carbon in the assay suite. Statistically describe total sulphur and inorganic carbon results for ore and host rock (comparison of parameters is indicative of ARD potential) and evaluate spatial distribution using resource delineation software.
+(3) Comparison of metals assay data to average crustal abundances can indicate elements of potential environmental concern due to metal leaching.
+(4) Should ARD/ML risks be identified, they should be documented as a basis for a future ARD/ML management plan. The document should comprise the ARD/ML data, analyses, and identification of risks.
+(5) Data and information on ARD/ML risks developed during then exploration stage are used to define and focus sampling campaigns for geochemical characterisation programs during later asset development stages.","(1) ARD/ML governance and strategy → Define ARD/ML governance and strategy at corporate level
+(2) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(3) Develop and refine ARD/ML management plan → Characterisation","(1) Chapter 4: Defining the Problem - Characterisation
+(2) Chapter 4, Figure 4-1: Characterisation Chapter Road Map
+(3) Chapter 4, Table 4-4: Geological Characteristics of Mineral Deposits that Affect Their Environmental Signatures
+(4) Chapter 5, Section 5.4.4: Introduction to Geochemical Characterisation
+(5) Chapter 5, Section 5.4.10: Net Acid or ARD Potential",Picture,Picture,No figure,Y
+4,Exploration,Develop and refine ARD/ML management plan,Prediction,"In rare cases, prediction of water quality and potential impacts related to exploration activities (eg on-site disposal of drilling mud) is required by regulatory authorities, but water quality prediction typically does not take place during the exploration stage.",Prediction typically does not take place during the exploration stage.,Prediction typically does not take place during the exploration stage.,Prediction typically does not take place during the exploration stage.,Prediction typically does not take place during the exploration stage.,"(1) Develop and refine ARD/ML management plan → All leading practice activities
+(2) Develop and refine ARD/ML management plan → Development and integration with mine, water, waste, and closure plans
+(3) Monitor and assess performance → Transparency in data management and reporting","(1) Chapter 4: Defining the Problem - Characterisation
+(2) Chapter 5: Prediction
+(3) Chapter 5, Figure 5-1: Generic Prediction Program Flowchart
+(4) Chapter 5, Section 5.3.3: Water Quality Prediction
+(5) Chapter 11: Sustainable Mine Closure ",No figure,No figure,No figure,Y
+5,Exploration,Develop and refine ARD/ML management plan,"Prevention, Mitigation, and Treatment","Leading practices are required to manage the residual materials from exploration (eg cuttings, drilling mud, rock from advanced exploration excavations) in such a manner that impacts to the environment are prevented.",(1) Are ARD/ML risks associated with exploration activities identified?,"While a detailed ARD/ML management plan is not developed during exploration, early geochemical characterisation results collected are used to inform potential mitigation measures for materials generated during this asset development stage.","(1) Characteristics of materials involved with and generated by drilling
+(2) Characteristics of materials generated during exploration activities ","During exploration, early assay results are used to indicate potential for ARD/ML. The results are documented as a basis for a future ARD/ML management plan and are used to inform management practices for materials generated during exploration activities.","(1) Develop and refine ARD/ML management plan → Characterisation
+(2) Develop and refine ARD/ML management plan → Prediction","(1) Chapter 4: Defining the Problem - Characterisation
+(2) Chapter 4, Table 4-4: Geological Characteristics of Mineral Deposits that Affect Their Environmental Signatures",Picture,No figure,No figure,Y
+6,Exploration,Develop and refine ARD/ML management plan,Monitoring Program Plan,"In some cases, monitoring of water quality associated with exploration activities is required per company and/or regulatory guidelines. Baseline monitoring may also be conducted during exploration.","(1) Are company and regulatory requirements for the monitoring of ARD/ML defined for exploration activities?
+(2) Is a baseline monitoring program warranted during exploration?","Asset should comply with corporate/regulatory requirements, and early-stage exploration is an opportunity to collect data for baseline monitoring.",(1) Applicable company/regulatory requirements,A monitoring plan specific to exploration activities is developed.,"(1) Develop and refine ARD/ML management plan → Characterisation
+(2) Develop and refine ARD/ML management plan → Prediction","(1) Chapter 8: Monitoring
+(2) Chapter 8, Figure 8-2: Steps in the Development of an ARD Monitoring Program
+(3) Chapter 8, Table 8-2: Common ARD Monitoring Components
+(4) Chapter 8, Table 8-5: Monitoring Activity Guidance",Picture,Picture,Picture,Y
+7,Exploration,Develop and refine ARD/ML management plan,"Development and Integration with Mine, Water, Waste, and Closure Plans","There is typically no need to develop a formal ARD/ML management plan during exploration. Should there be a specific need, see develop and refine ARD/ML management → Development and integration with mine, water, waste, and closure plans [Design]. ","See Develop and refine ARD/ML management → Development and integration with mine, water, waste, and closure plans [Design]","See Develop and refine ARD/ML management → Development and integration with mine, water, waste, and closure plans [Design]","See Develop and refine ARD/ML management → Development and integration with mine, water, waste, and closure plans [Design]","See Develop and refine ARD/ML management → Development and integration with mine, water, waste, and closure plans [Design]","See Develop and refine ARD/ML management → Development and integration with mine, water, waste, and closure plans [Design]","(1) Chapter 3: Corporate, Regulatory, and Community Framework
+(2) Chapter 9: Acid Rock Drainage Management and Performance Assessment",No figure,No figure,No figure,Y
+8,Exploration,Implement ARD/ML Plan,Integration with Mine Planning and Operations,,,,,,,,,,,N
+9,Exploration,Monitor and Assess Performance,Transparency in Data Management and Reporting,,,,,,,,,,,N
+10,Exploration,Continual Improvement of ARD/ML Practices,Adaptive Management,,,,,,,,,,,N
+11,Exploration,Integrated closure,Integrated Closure,"In some regulatory jurisdictions, a closure plan associated with exploration activities may be required. This is typically a preliminary document, focusing on exploration activities only and separate from the later closure plan addressing closure of the asset. Regardless of jurisdictional requirements, it is leading practice to have a closure plan for exploration in the event that the asset does not progress to an operation. Additionally, the exploration stage represents the most efficient opportunity to obtain initial samples to start to identify potential closure risks associated with ARD/ML. ","(1) Are the ARD/ML management requirements associated with exploration activities defined in the exploration closure plan?
+(2) Are the exploration asset development stage information requirements for the long-term management of ARD/ML risks identified and incorporated in the closure plan?",Characterisation and prediction of ARD/ML followed by identification of prevention measures are key to responsible closure planning and should be addressed from the earliest stage of mine planning. ARD/ML data obtained during the exploration stage are used to inform the ARD/ML management plan and integrated closure plan.,"(1) Available geological information on ore body including, but not limited to, (a) geological (conceptual) model of ore deposit, (b) ore genesis and host rock controls, (c) mineralogy of ore and host rock, and (d) information from analogue sites or geoenvironmental models of similar ore deposits.
+(2) Exploration sampling and analyses plan
+(3) Assay list of parameters
+(4) Information on chemicals used during exploration","While a detailed ARD/ML management plan is not developed in the exploration stage, early geochemical characterisation results collected during this stage are used to inform discussions of chemical stability in the conceptual closure plan.",(1) Develop and refine ARD/ML management plan → Characterisation,"(1) Chapter 4: Defining the Problem - Characterisation
+(2) Chapter 4, Table 4-4: Geological characteristics of mineral deposits affecting their environmental signatures
+(3) Chapter 5, Section 5.4.4: Introduction to Geochemical Characterisation
+(4) Chapter 5, Section 5.4.10: Net Acid or ARD Potential
+(5) Chapter 11: Sustainable Mine Closure",Picture,No figure,No figure,Y
+12,Design,ARD/ML governance and strategy,Define ARD/ML Governance and Strategy at Corporate Level,"ARD/ML governance and strategy is defined at the corporate level and is influenced by three main factors: 
+(1) Community Guidance - every asset is established within a community that includes all interested and affected parties (eg immediate neighbours; local, regional and national communities; and global non-governmental organizations). Local communities are the most directly affected by an asset. They are highly influential, have real and perceived rights, and often have the most complex needs. Communities can grant/withdraw the social privilege to operate and corporate governance should consider the challenges, risks, and opportunities related to community engagement.
+(2) Industry Guidance - although mining companies are not obligated to comply with global industry guidance unless it is a condition of funding, it is considered leading practice to adhere to such guidance unless it conflicts with regulations or other mandatory requirements. Global guidance provided by organizations such as ICMM, INAP, the World Bank, the International Finance Corporation, the World Health Organization (to name a few) is robust and covers technical subjects from material characterisation through ARD/ML prevention, mitigation, across all asset development stages including closure. 
+(3) Regulatory or Financial Requirements - mining companies, irrespective of size, must adhere to the national, regional, and local legislation and regulations of the jurisdictions where they operate. In most regulatory regimes, mining proponents are required at an early stage to address potential environmental risks (including ARD/ML) through an environmental impact study and subsequently through environmental management plans and closure plans. See GARD Guide chapter 3, section 3.5. In addition, mining companies may be required to disclose sustainability information to investors, securities commissions, and other stakeholders.
+
+Responsible corporate ARD/ML governance and strategy will balance the minimum requirements for the company to operate with the company's alignment with sustainability practices.","(1) Are company ARD/ML-related risk tolerances appropriately defined based on environmental commitments, the views of its stakeholders, and the jurisdictions in which it operates?
+(2) Are implementation strategies for leading practices appropriately defined to meet/exceed the company's ARD/ML vision and uphold its reputation?","A company can only operate at an asset level, and obtain access to new resources, if it obtains, and keeps, its privilege to operate through implementation of Leading practices. The privilege to operate is typically defined by the local communities and the regulatory landscapes in which the company operates. ","(1) Jurisdictions of all company assets
+(2) Applicable regulatory requirements
+(3) Global guidelines
+(4) Corporate policies, including commitments to sustainability principles
+(5) Needs, concerns, and expectations of local, national, and global communities relevant to company activities","Considerations when setting the ARD/ML strategy include:
+(1) Community needs may change with time, asset development stage, and socioeconomic status. Therefore, it is imperative to remain aware of the changing conditions at assets and feedback should be fed back to corporate.
+(2) Corporate guidelines should represent the company’s view of the priorities to be addressed and their interpretation of generally accepted leading practice. 
+(3) Companies often makes corporate commitments regarding ARD/ML that form the foundation of the social privilege to operate. Should an asset fail to meet its commitments, this privilege can be placed at risk. While ARD/ML issues generally are of a highly technical nature, the adverse consequences of getting it wrong can be material.
+(4) There is, therefore, no one size fits all approach to address ARD/ML management and the strategy set at the corporate level must consider that ARD/ML management is to be implemented in recognition of the unique social, economic, and environmental situation of each asset.
+(5) ARD/ML corporate guidance can include, among others: (a) corporate charter with commitments on performance and consultation, (b) commitments to external sustainability principles and metrics, (c) public targets for environmental, social and closure performance, (d) quantitative and prescriptive performance criteria, (e) risk assessment protocols and methodologies to develop asset-specific performance criteria, and (f) technical guidelines with methodologies to follow for assessment, design, and evaluation of water quality and ARD/ML.
+(6) It is increasingly common to ascribe to the principle that the practices in the home country of the company (ie company headquarters location) should be considered where they are more stringent than the local requirements (ie an asset's location). Corporate governance related to environmental performance should not be compromised based on a geographical location. Moreover, non-governmental organizations, financing institutions, and other stakeholders judge performance based on the company as whole and not on individual locations. 
+(7) The corporate strategy should identify the functions responsible and accountable across the business (asset and corporate) for implementation of ARD/ML management, monitoring and assessing performance, and engaging if/when implementation of additional prevention or mitigation measures is required. ","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level [all asset development stages]","(1) Chapter 3: Corporate, Regulatory, and Community Framework
+(2) Chapter 3, Section 3.5: Country Regulatory Guidance
+(3) Chapter 10: ARD Communication and Consultation
+(4) Chapter 11: Sustainable Mine Closure",Picture,No figure,No figure,Y
+13,Design,"ARD/ML objectives, standards, and KPIs","Set ARD/ML Objectives, Standards, and KPIs at Asset Level","It is essential to set ARD/ML objectives at the asset level to identify relevant KPIs that can be used to assess the implementation of an ARD/ML management strategies. Objectives should be realistic in the context of the site's biophysical setting, regulatory and legal regime, community and corporate requirements, and financial considerations.","(1) Are feasible ARD/ML objectives and standards that meet corporate and regulatory requirements defined for the asset?
+(2) Are suitable KPIs to assess performance against set objectives and standards defined for the asset?","Establishing clear ARD/ML objectives allows for the development and implementation of a robust ARD/ML management plan that can be readily adapted throughout all asset development stages. Every asset has unique influencers (eg ARD/ML risk, site infrastructure, climatic conditions) that result in restrictions of what is achievable in terms of ARD/ML prevention and mitigation at the asset. However, it is essential for the asset to comply with regulatory requirements and objectives should align with corporate strategy on ARD/ML. Once suitable ARD/ML objectives are in place, leading and lagging KPIs that will be used to monitor the asset's performance against objectives across all asset development stages can be selected.","(1) Regulatory requirements applicable to the asset's location
+(2) The company's internal risk tolerance and corporate policies on ARD/ML
+(3) Inventory of materials that will be disturbed or produced by asset activities (see GARD Guide table 4-2), the volumes to be produced, their geochemical characterisation data, and ARD/ML Potential
+(4) Mine development plans across all asset development stages and layouts and limitations of design/infrastructure
+(5) Relevant asset climate data, including climate change predictions 
+(6) Water quality criteria
+(7) Learnings from analogue projects",(1) Early engagement with regulator and other asset stakeholders,"(1) ARD/ML governance and strategy → Define ARD/ML governance and strategy at corporate level
+(2) Develop and refine ARD/ML management plan → Characterisation [Design]
+(3) Develop and Refine ARD/ML management plan → Monitoring program plan [Design]
+(4) Integrated closure → Integrated closure","(1) Chapter 3: Corporate, Regulatory, and Community Framework
+(2) Chapter 4: Defining the Problem – Characterisation
+(3) Chapter 6: Prevention and Mitigation
+(4) Chapter 8: Monitoring
+(5) Chapter 10: Acid Rock Drainage Communication and Consulting
+(6) Chapter 11: Sustainable Mine Closure",Picture,No figure,No figure,Y
+14,Design,Develop and refine ARD/ML management plan,Characterisation,"For this asset development stage, leading practice focuses on question 1 “Is ARD/ML likely to occur?”. Geochemical characterisation activities support the assessment of the asset’s economic viability and typically efforts peak during design. Activities supported by geochemical characterisation programs include:
+(1) Development of mine plan, mine waste and mine water and ARD/ML management plans
+(2) Mine (environmental) permitting
+(3) Characterisation of baseline conditions
+(4) Pre-feasibility and feasibility studies
+(5) Design of mine layout and facilities
+
+Geological characteristics of mineral deposits (GARD Guide table 4-4) and mine design are typically considered in the development and execution of geochemical characterisation programs. ","(1) Are all relevant materials identified for ARD/ML characterisation?
+(2) Are the appropriate level and scope of characterisation defined?","Characterisation during the design Stage must be sufficient to allow estimation of significant long-term requirements, hence costs, of ARD/ML management for inclusion in the asset’s economic evaluation (GARD Guide section 4.2.2).
+
+The ARD/ML potential of materials either disturbed or produced by the asset defines the type of drainage that will be generated, which in turn determines the ARD/ML prevention and mitigation measures to be considered in the mine plan and the facility designs. ARD/ML prevention is the key to avoid costly mitigation. Prevention of ARD/ML can be achieved through a risk-based planning and design approach that is applied throughout the life of the asset. Prevention is primarily accomplished in the design stage, with more options and more effective options available earlier in the life of the asset. Effective geochemical characterisation programs lead to better estimations of drainage chemistry, enabling more confident and appropriate selection of ARD/ML prevention measures (eg selection of lower cost, lower risk measures via trade-off studies). ","(1) Mine development plans and layouts across the entire life of asset, including closure designs 
+(2) Geological model indicating lithological intersections with Mine Plan and mine layout
+(3) Inventory of mine materials that will be disturbed or produced by asset activities (see GARD Guide table 4-2)
+(4) For each waste type: (a) Life of asset volume or mass, (b) life of asset production rates, (c) life of asset lithological breakdown for waste rock, (d) life of asset geo-metallurgical units for tailings, (e) sources of materials tested (eg drill core for ore, waste rock and borrow sources, pilot test work for tailings and process wastes)
+(5) Corporate characterisation guidelines/requirements
+(6) Applicable regulatory requirements","All materials to be disturbed or produced by the asset require ARD/ML evaluation. The level of required data for each material type is determined by the life of asset mass of material, its compositional variability, its anticipated ARD/ML potential, and the proposed management of the material (stored, used, processed). All data generated should be made available in a digital format and asset geochemical database and documented in the ARD/ML management plan. 
+
+Considerations to determine the required data:
+(1) Geochemical characterisation programs are typically conducted in phases; confirm pre-existing information including from analogue sites, exploration data, geo-environmental models etc.
+(2) Sample selection (GARD Guide section 4.3.2.1). Ensure samples represent each material type (and individual lithologies for waste rocks) and that sample populations are spatially and compositionally representative.
+(3) Analyses (GARD Guide section 4.3.2.3). Static testing typically includes acid base accounting (ABA), solid phase geochemistry, short-term leach testing and mineralogical analysis. Kinetic testing of at least 1 to 2 representative samples of waste rock and tailings materials is recommended. All testing must include quality assurance/quality control samples.
+(4) Sample numbers (GARD Guide section 4.3.2.2). Static testing can require collection and analysis of several hundred representative samples (dependent on life of asset mass of material, its compositional variability, its anticipated ARD/ML potential and the proposed management of the material). In general, the larger the mass of material, variability, and ARD/ML potential, the more extensive the required geochemical characterisation program. 
+
+The level of effort differs between characterisation studies conducted during scoping phase vs pre-feasibility study, and feasibility study vs. detailed design
+(1) During scoping phase, it is usually limited to exploration data, historic data, analogue data, and/or geoenvironmental.
+(2) Characterisation efforts usually peak during the pre-feasibility study.
+(3) During feasibility study, characterisation is focused on data and information gaps that were identified during the pre-feasibility study.
+(4) During detailed design, characterisation is usually limited, but could include ongoing (kinetic) testing of materials.","(1) Develop and refine ARD/ML management plan → All leading practice activities 
+(2) Develop and refine ARD/ML management plan → Prediction
+(3) Develop and refine ARD/ML management plan → Prevention, mitigation, and treatment","(1) Chapter 4: Defining the Problem – Characterisation
+(2) Chapter 4, Table 4-4: Geological Characteristics of Mineral Deposits that Affect Their Environmental Signatures 
+(3) Chapter 5: Prediction
+(4) Chapter 9: ARD/ML Management and Performance Assessment
+(5) Chapter 11: Sustainable Mine Closure",Picture,Picture,Picture,Y
+15,Design,Develop and refine ARD/ML management plan,Prediction,"A prediction program for drainage chemistry is a critical part of mine planning and informs water and mine waste management and integrated closure planning. Its primary objective is to evaluate the ARD/ML potential of geologic materials and mine and process wastes, and their likelihood to affect the environment (in particular, water resources). The secondary objectives of a prediction program can include defining prevention methods, selecting mitigation methods, assessing potential water quality impact.
+
+Drainage chemistry from mine and process wastes is determined by their geochemical and physical properties, the mine waste facility design (including material and water management strategies), and site-specific climate conditions. Predicted drainage chemistries are used to determine the need for, and nature of, ARD/ML prevention, mitigation, and treatment measures.
+
+Prediction efforts peak during Design, with the prediction of drainage chemistry supporting the assessment of the economic viability of the asset. Additional activities that are typically supported by prediction programs include:
+(1) Development of mine plan, mine waste and mine water and ARD/ML management plans
+(2) Mine (environmental) permitting
+(3) Characterisation of baseline conditions
+(4) Pre-feasibility and feasibility studies
+(5) Design of mine layout and facilities
+(6) Closure designs
+
+Prediction efforts differ between scoping study, pre-feasibility study, feasibility study, and detailed design.
+(1) During the scoping phase, it is usually limited to review of exploration data, historic data, and analogue data.
+(2) Prediction efforts usually peak during the pre-feasibility study.
+(3) During the feasibility study, the aim is to refine previous predictions; reduce the envelope of uncertainty; and incorporate additional geochemical data, refined facility designs, and updated water and waste management concepts.
+(4) During detailed design, prediction is usually limited but could include evaluation of key ARD/ML risks/uncertainties identified during the feasibility study. ","(1) Are the rationales and purposes of drainage chemistry predictions defined?
+(2) Are the required types and levels of drainage chemistry predictions defined for operational, closure and post closure asset development stages?","Design stage drainage chemistry predictions must be sufficiently robust to allow estimation of any significant long-term costs of ARD/ML management for inclusion in the economic evaluation of the asset. In general, more mine water, mine waste management and closure options, and more effective options, are available earlier in the life of the asset, making ARD/ML prediction during design a critical activity. 
+
+ARD/ML prevention is the key to avoid costly mitigation. Prevention of ARD/ML can be achieved through a risk-based planning and design approach that is applied throughout the life of the asset. Prevention is primarily accomplished in the design stage, with more options and more effective options available earlier in the life of the asset. The drainage chemistry from mine and process wastes determines the ARD/ML prevention measures to be considered in the mine and closure plans and the facility designs. Effective prediction of drainage chemistry enables more confident and appropriate selection of ARD/ML prevention measures (eg selection of lower cost, lower risk measures via trade-off studies).","(1) Mine development plans and layouts, including closure plans and designs
+(2) Geological model indicating lithological intersections with mine plan/layout
+(3) Designs of asset infrastructure (underground or open pit mine workings, tailings storage facilities, waste rock storage facilities, low-grade ore stockpiles, process waste facilities, soil stockpiles).
+(4) Closure plan landforms, designs, objectives, outcome and criteria
+(5) Water and waste management strategies/concepts
+(6) Project-specific database of geochemical characterisation data for materials to be disturbed or produced
+(7) Corporate drainage prediction guidelines/requirements
+(8) Applicable regulatory requirements
+(9) Water quality information from analogue sites or geoenvironmental models for similar deposits","Drainage chemistry predictions are required for all mine contact water and typically include runoff water, seepage/process return water, and contact water from management infrastructure. Predictions should be for all individual mine infrastructure, and at an asset-wide level (eg the water quality model). Drainage chemistry predictions for mine infrastructure typically require: (1) Facility-level designs (conceptual at a minimum), (2) the ARD/ML properties of disturbed/processed materials, and (3) facility-level water balance model.
+
+Asset-wide drainage chemistry predictions are based on a water management strategy/concept for the management and use of mine contact water. Drainage chemistry predictions are typically provided as inputs to surface/groundwater models used to evaluate effects in the downstream receiving environments. Drainage chemistry predictions need to be coordinated with respect to detail, content, and schedule with the aforementioned modelling activities. Considerations to determining drainage chemistry predictions:
+(1) Drainage chemistry can be predicted by (a) conducting lab/field leachability tests, (b) geochemical modelling, and/or (c) using relevant water quality monitoring data (historic asset or analogue site data).
+(2) Drainage chemistry prediction is an iterative process during design as material characterisation data are produced, designs are progressed, and water/waste/closure management strategies are created. See GARD Guide Figure 5-1 for activities to support prediction during design and GARD Guide Figure 5-2 for a flow chart of the iterative process.
+(3) Drainage chemistry prediction needs are similar for Feasibility Study and environmental assessment/permitting. The transition between the two study stages is often rapid or they occur in parallel. Drainage predictions are used as input to surface and groundwater assessments/models to assess environmental (water quality) effects on site-specific receptors.
+(4) The level of drainage chemistry prediction is a function of the ARD/ML potential of disturbed/processed materials. A more detailed evaluation is required where ARD/ML risks are higher and more costly prevention/mitigation measures may be required. 
+(5) Drainage chemistry predictions are inherently uncertain. It is essential to document sources of uncertainty and develop an envelope of results that is reflective of the uncertainties in input parameters, bounding arguments, and assumptions. 
+
+All data and information generated by prediction activities should be made available in a digital format, included (consolidated) and properly referenced in the ARD/ML management plan.","(1) Develop and refine ARD/ML management plan → All leading practice activities
+(2) Develop and refine ARD/ML management plan → Development and integration with mine, water, waste, and closure plans
+(3) Monitor and assess performance → Transparency in data management and reporting","(1) Chapter 4: Defining the Problem - Characterisation
+(2) Chapter 5: Prediction
+(3) Chapter 5, Figure 5-1: Generic Prediction Program Flowchart
+(4) Chapter 5, Section 5.3.3: Water Quality Prediction
+(5) Chapter 11: Sustainable Mine Closure ",Picture,Picture,No figure,Y
+16,Design,Develop and refine ARD/ML management plan,"Prevention, Mitigation, and Treatment","Early avoidance of ARD/ML issues is a leading practice that may be achieved through integrating the characterisation and prediction results with mine planning, design, water, waste, and closure management strategies. Avoidance is not synonymous with non-development in mining; rather, it includes the decision not to extract a reactive rock types that will be too difficult to manage in the future (e.g. develop mine designs that avoid or work around difficult rock types).
+
+Prevention is a proactive strategy that removes the need for the reactive approach to mitigation and also has the potential to remove long term post closure liability. Mitigation will be the usual initial course of action for an existing case of mine drainage that is adversely impacting the environment. Subsequent preventative measures may also need to be considered in the context of reducing future contaminant load, and thus reducing the ongoing need for mitigation controls. During the design stage, the focus should be on prevention. The goal of mitigation measures is to maintain or control the rate of sulphide mineral oxidation so that ARD/ML formation is prevented or reduced to minimal or acceptable levels. Treatment of drainage may be required to satisfy environmental objectives and can be achieved through a variety of methods. Mine drainage treatment projects are executed within the overall hierarchy of mine water management. Active long-term post closure operation and maintenance of mine drainage treatment facilities may be less desirable due to the potentially significant ongoing associated liabilities. Passive treatment technologies are, therefore, considered more beneficial in post closure than active treatment technologies, where applicable
+
+The ARD/ML management plan must consider prevention, mitigation, and treatment. The science and engineering of ARD/ML prevention and mitigation are evolving. There are no off-the-shelf solutions that can be applied at all sites that will guarantee acceptable water quality through prevention of ARD/ML. Therefore, the planning for and management of mine material handling and storage should be considered in a risk-based framework that considers risk across all asset development stages.
+
+The implementation of methods for prevention and mitigation depends on many factors, including the mine development stage, deposit type, geochemistry, climatic regime, terrain (or topography), surface water, geology, groundwater, and aquatic and terrestrial ecosystems. Material availability, land management and land use requirements, receptors, risk, cost, maintenance, sustainability, and regulatory requirements will also influence the approach selected.","(1) Are strategic objectives for preventing and mitigating ARD/ML risks defined for all asset development stages?
+(2) Are prevention and mitigation measures aimed at meeting strategic objectives incorporated into mine infrastructure designs?","ARD/ML prevention is the key to avoid costly mitigation. Prevention of ARD/ML can be achieved through a risk-based planning and design approach that is applied throughout the life of asset. Prevention is primarily accomplished in the design stage, with more options and more effective options available earlier in the asset life.","(1) Mine plan, including the integrated closure plan if available
+(2) Geographic setting and climatic conditions, including climate change predictions
+(3) Results from geochemical characterisation program 
+(4) Results from prediction of drainage chemistry
+(5) Company drainage prediction guidelines/requirements
+(6) Applicable regulatory guidelines
+(7) Risk acceptance by company and stakeholders","For both prevention and mitigation, the strategic objectives define the control methods required. The process of identifying the strategic objectives should consider: (1) Quantifiable risks to ecological systems, human health, and other receptors; (2) Site-specific discharge water quality criteria; (3) Capital, operating, and maintenance costs of mitigation or preventative measures; (4) Logistics of long-term operations and maintenance; (5) Required system longevity; and (6) Risk of system failure and identification of potential modes of failure
+
+The principal approach to the prevention and mitigation of ARD/ML is to apply methods that minimise the supply of the primary reactants for sulphide oxidation, and/or maximise the amount and availability of acid neutralising reactants. These methods may involve one or more of the following: (1) Minimising oxygen supply; (2) Minimising water infiltration and leaching (water acts as both a reactant and a transport mechanism); (3) Minimising, removing, or isolating sulphide minerals; (4) Controlling pore water solution pH; (5) Maximising availability of acid neutralising minerals and pore water alkalinity; and (6) Controlling bacteria and biogeochemical processes
+
+A typical objective for ARD/ML control is to satisfy environmental criteria using the most cost-effective technique. In general, more options and more effective options are available earlier in the life of asset, when pH may be near neutral and oxidation products have not significantly accumulated. One measure, or a combination of measures, may be required to achieve the desired objective. Design of prevention and mitigation measures and treatment will require analytical/numerical modelling to predict both geochemical and physical performance. The time frame and scheduling of the implementation of control measures becomes important when potentially acid generating/forming materials have a limited predicted time to the onset of ARD production.
+
+Where avoidance and prevention are not possible, post closure water treatment system land requirements should be considered in the design of tailings storage and waste rock facilities so that space is available, when needed, and post closure water treatment does not become a major design constraint that forces the implementation of active treatment technologies. Post closure water treatment has material closure liability implications and should only be considered after all other potential mitigation strategies have been evaluated and deemed insufficient. During the design stage, the ARD/ML management plan describes the anticipated prevention, mitigation and treatment required throughout the life of asset. ","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Develop and refine ARD/ML management plan → Characterisation
+(3) Develop and refine ARD/ML management plan → Prediction","(1) Chapter 6: Prevention and Mitigation
+(2) Chapter 6, Figure 6-1: Options and Effectiveness with Time
+(3) Chapter 6, Figure 6-18: Prevention and Mitigation Evaluation of Alternatives
+(4) Chapter 6, Table 6-7: Summary of Prevention and Mitigative Measures and Climate Considerations
+(5) Chapter 11: Sustainable Mine Closure",Picture,Picture,Picture,Y
+17,Design,Develop and refine ARD/ML management plan,Monitoring Program Plan,"During design, the ARD/ML management plan and the associated monitoring plan are developed. Monitoring occurs at all asset stages; however, the objectives, components, and intensity of the monitoring activities will change, and the description in the ARD/ML management plan is refined accordingly. Because there may be a lag time to the onset of ARD/ML, prudent environmental management includes an ongoing assessment of the potential for the development of ARD/ML, or the degree to which ARD/ML generation has been realised at this point in time. The design stage also represents an opportunity for continued baseline monitoring as site activities may be limited.","(1) Are suitable ARD/ML monitoring objectives defined for remaining asset development stages
+(2) Is the conceptual ARD/ML model suitable to provide a framework for the monitoring program?
+(3) Are the data collection activities required to fulfil the monitoring objectives defined?","A statement of clear objectives is required to direct and focus a monitoring program and to avoid expensive and unnecessary data collection efforts. The conceptual site model is used to identify the potential ARD/ML sources, pathways, and receptors for inclusion in the monitoring program. The specific data collection activities (eg analytical parameters, locations, frequency) are designed to fulfil the objectives of the monitoring program.","(1) Mine plan
+(2) Sources of ARD/ML (waste rock, tailings, ore, heap leach pile, underground workings (walls), pit (walls))
+(3) Geographic setting and climatic conditions
+(4) Results from geochemical characterisation program
+(5) Results from prediction of drainage chemistry
+(6) Company drainage prediction guidelines/requirements
+(7) Applicable regulatory requirements
+(8) Existing baseline and environmental impact study proposed environmental monitoring programs
+(9) Post closure timeframe assumptions ","Monitoring plans focusing on ARD/ML are integrated into broader, site-wide environmental monitoring programs. The ARD/ML management plan section on monitoring can either reference the broader environmental monitoring program for details or the environmental monitoring program can reference the ARD/ML management plan section on monitoring.
+
+The development of the monitoring program during Design should consider:
+(1) data requirements (eg climatic, hydrology, hydrogeology, biological, geochemical, gas)
+(2) statistical considerations (eg sample variation, frequency distribution)
+(3) sampling locations (eg seepage, runoff, supernatant, reference stations, spatial variability, safe access to locations)
+(4) sampling frequency (eg considering climate and temporal variability in ARD/ML release and in receptor sensitivity)
+(5) sampling methods and protocols (eg site specific characteristics, permit requirements, and required accuracy and precision, standard operating procedures)
+(6) analytes and laboratory methods (the parameters typically of most relevance for ARD/ML monitoring programs are: pH, acidity, alkalinity, electrical conductivity, and sulphate and metals of interest as determined for a particular site during characterisation)
+(7) relevant regulatory and corporate guidance
+
+Operational controls such as standard operating procedures, KPIs and quality assurance/quality control programs are established to guide the implementation of the monitoring program. Roles, responsibilities, and accountabilities for mine staff to implement the monitoring plan are identified. Data management, analysis, methods for results interpretation (eg comparison criteria, spatial and temporal trends), and reporting schemes are developed to track progress of the monitoring plan","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Develop and refine ARD/ML management plan → Characterisation 
+(3) Develop and Refine ARD/ML management plan → Prediction","(1) Chapter 8: Monitoring
+(2) Chapter 8, Figure 8-2: Steps in the Development of an ARD Monitoring Program
+(3) Chapter 8, Table 8-2: Common ARD Monitoring Components
+(4) Chapter 8, Table 8-5: Monitoring Activity Guidance
+(5) Chapter 11: Sustainable Mine Closure ",Picture,Picture,Picture,Y
+18,Design,Develop and refine ARD/ML management plan,"Development and Integration with Mine, Water, Waste, and Closure Plans","The need to develop a formal ARD/ML management plan during the design stage is usually triggered by the results of a characterisation and prediction program (GARD Guide chapters 4 and 5) or the results of site monitoring (chapter 8). Formal ARD/ML management plans are typically required for assets where ARD/ML has been identified as an issue (at a scale where prevention/mitigation/management influences the economic viability of the asset). 
+
+Where ARD/ML has been identified as an issue, ARD/ML management plans have the following objectives:
+(1) To consolidate and be a repository of all ARD/ML data, information, measures and commitments associated with the project or mine site.
+(2) To act as a reference for ARD/ML components of related management and monitoring plans, including environmental management plans, mine waste management plans, mine water management plans, monitoring plans and closure plans.
+(3) To be a dynamic document that is updated as required and as projects and mine sites progresses through the stages to retain information and institutional knowledge.","(1) Is an ARD/ML management plan required?
+(2) Are the structure and content of the ARD/ML management plan defined?
+(3) Are the independencies between the ARD/ML management plan and other management plans, including but not necessarily limited to, mine plans, environmental plans, monitoring plans, mine waste and mine water management plans, closure plans, and social engagement plans, identified and described?","The need for an ARD/ML management plan is established during the design stage. Such plans require resources to develop and maintain in subsequence stages. ARD/ML management plans also create efficiencies for future ARD/ML assessments, operationalisation of ARD/ML management practices, closure planning and communication with internal and external stakeholders. ","Developing an ARD/ML management plan should be considered if there is a reasonable expectation (based, for instance, on data from analogue sites, characterisation and prediction studies) that contact water will be impacted by mining activities to a degree that concentrations of constituents of potential concern will likely exceed regulated water quality limits and/or require ARD/ML mitigation and prevention measures. 
+
+The comprehensiveness of the ARD/ML management plan can be variable depending on the nature and magnitude of the ARD/ML risks and associated prevention/mitigation measures. Active management of mine water (for the purposes of ARD/ML mitigation) typically requires the most comprehensive ARD/ML management plan. 
+
+Information required: 
+(1) Relevant ARD/ML characterisation studies
+(2) Relevant ARD/ML prediction studies
+(3) ARD/ML prevention and mitigation strategies 
+(4) Company policies, standards, and guidelines related to ARD/ML management
+(5) Outcomes of environmental effects assessments and environmental risk assessments
+(6) Applicable regulatory requirements","ARD/ML management plans typically include the following content related to ARD/ML management:
+(1) Reference to relevant company policies/standards/operating procedures/KPIs 
+(2) Concise project description with specific reference to mine layout, mine infrastructure and materials that will be disturbed and/or generated from the project across all asset development stages.
+(3) Summary of material characterisation studies conducted during the relevant design stages (pre-feasibility study, feasibility study, detailed design)
+(4) Summary of prediction studies (facility-level as well as site-wide)
+(5) Description of ARD/ML strategies for mine infrastructure, mine operations and closure.
+(6) Description of operational controls during subsequent stages (standard operating procedures, KPIs, quality assurance/quality control). Operational controls should also define requirements for ARD/ML data management, evaluation and reporting, and be specific to each asset development stage
+(7) Defined roles and assigned responsibility and accountability
+(8) Description of ARD/ML monitoring and performance assessment requirements.
+
+ARD/ML management plans are a compilation of and consolidate ARD/ML related study data, information, strategies, requirements, and commitments that are usually distributed across multiple studies and documents, over multiple stages. Having this information in one place is invaluable for efficient progression of ARD/ML studies, optimisation/adjustment of operational ARD/ML management practices, and integrated closure. 
+
+All ARD/ML data and information should be made available in a digital format for inclusion in the ARD/ML management plan. It is essential that all functions responsible for ARD/ML planning, mine planning, mine waste and water management planning, closure planning, and social engagement communicate on a regular basis and develop a record of topics discussed, decisions made, required actions, and responsible/accountable parties for execution of those actions. There should be strong connections between the ARD/ML management plan and other environmental management and monitoring plans.",(1) Develop and refine ARD/ML management plan → All leading practice activities,"(1) Chapter 3: Corporate, Regulatory, and Community Framework
+(2) Chapter 4: Defining the Problem – Characterisation
+(3) Chapter 5: Prediction
+(4) Chapter 8: Monitoring
+(5) Chapter 9: Acid Rock Drainage Management and Performance Assessment
+(6) Chapter 10: Acid Rock Drainage Communication and Consulting
+(7) Chapter 11: Sustainable Mine Closure ",No figure,No figure,No figure,Y
+19,Design,Implement ARD/ML Plan,Integration with Mine Planning and Operations,,,,,,,,,,,N
+20,Design,Monitor and Assess Performance,Transparency in Data Management and Reporting,,,,,,,,,,,N
+21,Design,Continual Improvement of ARD/ML Practices,Adaptive Management,,,,,,,,,,,N
+22,Design,Integrated closure,Integrated Closure,"The prediction, prevention, and management of ARD/ML is a critical component of closure planning for any asset where there is a potential for the generation of ARD/ML. Expending additional resources early in the life of asset to collect materials characterisation and baseline data, and model ARD/ML issues to support credible projections of long-term closure implications allows the development of an optimised mine design, ideally with a focus on ARD/ML avoidance and prevention rather than relying on mitigation or treatment at closure.
+
+The concept of “design for closure” should be applied in the design of all mine and process facilities that have an ARD/ML potential. Design for closure requires that the full life of asset be considered in the design of the mine components so that the desired mine closure conditions are achieved as part of operations rather than as closure solutions executed when there are no operational synergies or mine revenue. Implementing the “design for closure” approach for ARD/ML is achieved by integrating closure planning with ARD/ML management planning and mine planning. While the characterisation and predictions for ARD/ML will be refined over the life of the asset, there is an imperative to start identification of the nature and extent (spatial and temporal) of any ARD/ML issues as early as practicable.
+
+Like ARD/ML management plans, closure plans are also developed iteratively, with increasing levels of detail and reduced uncertainty over the life of the asset. ARD/ML management plans should be prepared and implemented, integrating the requirements for progressive (concurrent) and final mine closure.",(1) Are mechanisms identified and documented for ARD/ML leading practice areas and activities that integrate closure and post closure requirements and support the early stages of closure planning?,"Ideally, it should be known at the earliest stages of mine planning if there will be need for significant ARD/ML mitigation works throughout the life of asset. Avoidance and prevention should be the focus. Where closure management and / or ongoing treatment are identified, the risks associated with these activities, the high level of uncertainty and potential for changing expectations, as well as ongoing cost profile should be fully assessed against other mitigations measures that require active involvement. The design stage represents the most opportune stage for identification of the nature and extent of any ARD/ML issues. Where there is a potential for ARD/ML, a key element of integrated closure planning is to incorporate measures to prevent that potential from being realised from the beginning. ","(1) Results from geochemical characterisation program 
+(2) Results from prediction of drainage chemistry
+(3) Company drainage prediction guidelines/requirements
+(4) Company closure guidelines/requirements
+(5) Applicable regulatory guidelines
+(6) Risk acceptance by company and stakeholders","Key approaches when implementing the “design for closure” concept include:
+(1) Adapt the design of the mine’s components, to the extent practical, to accommodate efficient and durable operational management measures that do not result in ongoing closure liabilities. 
+(2) Avoid designs that result in unacceptable post-mining land capabilities and uses and/or impractical or costly closure implementation and/or require extensive and prolonged post closure care. 
+(3) Avoid designs that unnecessarily increase the liability associated with the asset during the post closure period.
+(4) Maximise the potential for progressive mine closure during operations as this both reduces the cost of closure, and also allows the performance of closure measures relevant to ARD/ML management to be assessed and improved as necessary. This also has the benefit of reducing closure liability. 
+
+Integrated closure planning initially considers a range of feasible and integrated mine and closure alternatives, which are progressively eliminated until preferred options are selected that, on balance, best achieve the closure objectives and requirements. Even at early stages, it is necessary to identify an option that will be used as the basis for closure planning and cost estimations. Closure designs should be established at the level applicable to regulatory and company requirements while also providing sufficient understanding of their ability to manage ARD/ML impacts and meet the required KPIs and closure objectives identified in the ARD/ML management plan. 
+
+Common closure activities related to ARD/ML management include:
+(1) Flooding of open pits and underground workings (either actively or passively after the cessation of dewatering activities) so that exposed potentially acid generating/forming material is resubmerged as soon as possible.
+(2) Resloping/reshaping or other stabilising activities (eg armouring) to achieve long-term geotechnically stable configurations and/or facilitate cover placement, with the objective to minimise potential re-exposure of potentially acid generating/forming material.
+(3) Cover placement over mine wastes to limit contact water and/or ingress of oxygen.
+(4) Reconfiguration of surface water management landforms to direct non-contact water away from reactive material.
+(5) Construction or modification of water treatment facilities, as an ongoing management option.","(1) Develop and refine ARD/ML management plan → Characterisation
+(2) Develop and refine ARD/ML management plan → Prediction 
+(3) Develop and refine ARD/ML management plan → Prevention, mitigation, and treatment ","(1) Chapter 9, Section 9.2.5: Design for Closure
+(2) Chapter 11: Sustainable Mine Closure",No figure,No figure,No figure,Y
+23,Construction,ARD/ML Governance and Strategy,Define ARD/ML Governance and Strategy at Corporate Level,,,,,,,,,,,N
+24,Construction,"ARD/ML Objectives, Standards, and KPIs","Set ARD/ML Objectives, Standards, and KPIs at Asset Level",,,,,,,,,,,N
+25,Construction,Develop and refine ARD/ML management plan,Characterisation,"In this asset development stage, an ARD/ML management plan has been developed and outlines geochemical characterisation activities occurring during construction. Characterisation focuses on verification of construction materials and early development mine waste. Geochemical characterisation of ore and mine waste materials initiated during exploration/design is ongoing.",(1) Are there reasons to deviate from the verification or characterisation activities defined in the ARD/ML management plan?,"Implementation of characterisation and verification programs during construction typically requires adjustment to improve operational efficiency and practicality, as well as adapt to changes in construction plans.","(1) ARD/ML management plan and specific characterisation and verification procedures for construction (usually defined in design packages for construction works).
+(2) Changes to construction plans.
+(3) Operational quality assurance/quality control reporting of geochemical characterisation and/or verification activities. ","(1) Characterisation and verification data are documented and assessed. If adjustments to the characterisation and verification programs are required, document the reasons in revised ARD/ML management plan.
+(2) All data generated should be made available in a digital format and asset geochemical database. ","(1) Develop and refine ARD/ML management plan → All leading practice activities 
+(2) Monitor and assess performance → Transparency in data management and reporting","(1) Chapter 4: Defining the Problem – Characterisation
+(2) Chapter 4, Table 4-4: Geological Characteristics of Mineral Deposits that Affect Their Environmental Signatures 
+(3) Chapter 5: Prediction
+(4) Chapter 9: ARD/ML Management and Performance Assessment",Picture,No figure,No figure,Y
+26,Construction,Develop and Refine ARD/ML Management Plan,Prediction,,,,,,,,,,,N
+27,Construction,Develop and refine ARD/ML management plan,"Prevention, Mitigation, and Treatment","In the construction stage, an ARD/ML management plan has been developed to outline geochemical characterisation and monitoring activities during construction. The prevention and mitigation measures for the Construction Stage described in the ARD/ML management plan are implemented. Monitoring is conducted and uncertainties identified that require adaptive management.","(1) Are there changes that occur during the Construction Stage that warrant a change in the described prevention, mitigation, or treatment strategies in the ARD/ML management plan?
+(2) Are the implications of these changes defined for all remaining asset development stages?","Variation in as-built conditions vs. designs, and the results of the construction stage monitoring and performance assessment require reassessment of the applicability of the prevention, mitigation and treatment measures described in the ARD/ML management plan, and revision as appropriate.","(1) Results from geochemical characterisation program 
+(2) Results from prediction of drainage chemistry
+(3) Standard operating procedures
+(4) Company drainage prediction guidelines/requirements
+(5) Applicable regulatory guidelines and site permit requirements
+(6) Monitoring data
+(7) Key performance indicators
+(8) Adaptive management ","If the results of the construction stage monitoring and performance assessment require reassessment of the applicability of the prevention, mitigation and treatment measures described in the ARD/ML management plan, the ARD/ML management plan is revised as appropriate.","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Develop and refine ARD/ML management plan → Characterisation
+(3) Develop and refine ARD/ML management plan → Prediction
+(4) Develop and refine ARD/ML management plan → Monitoring plan
+(5) Implement ARD/ML management plan → Development and integration with mine, water, waste, and closure plans
+(6) Monitor and assess performance → Transparency in data management and reporting","(1) Chapter 6: Prevention and Mitigation
+(2) Chapter 6, Figure 6-1: Options and Effectiveness with Time
+(3) Chapter 6, Figure 6-18: Prevention and Mitigation Evaluation of Alternatives
+(4) Chapter 6, Table 6-7: Summary of Prevention and Mitigative Measures and Climate Considerations
+(5) Chapter 11: Sustainable Mine Closure",Picture,Picture,Picture,Y
+28,Construction,Develop and refine ARD/ML management plan,Monitoring Program Plan,"During construction, the monitoring plan is refined as appropriate. For instance, when encountered conditions differ from those anticipated in the design stage, when new results from geochemical characterisation programs are available, when expectations from stakeholders differ, or when applicable regulations change.","(1) Are changes to the monitoring program (eg addition or removal of sample locations or analytical parameters, revision of sampling frequency, etc.) warranted based on changed objectives or conditions?",The ARD/ML management plan is a dynamic document that is updated as required to incorporate site changes relevant to ARD/ML; the monitoring program is modified accordingly such that the defined objectives of the ARD/ML management plan continue to be met.,"(1) Changes to construction plans
+(2) Results from geochemical characterisation program 
+(3) Operational (quality assurance/quality control) reporting of geochemical characterisation and/or verification activities 
+(4) Monitoring data from previous stages","If modifications to the monitoring program are required to meet the objectives of the ARD/ML management plan, the monitoring plan is updated accordingly.","(1) Develop and refine ARD/ML management plan → Characterisation
+(2) Develop and refine ARD/ML management plan → Prediction
+(3) Develop and refine ARD/ML management plan → Prevention, mitigation, and treatment
+(4) Continual improvement of ARD/ML practices → Adaptive management",(1) Chapter 8: Monitoring,No figure,No figure,No figure,Y
+29,Construction,Develop and refine ARD/ML management plan,"Development and Integration with Mine, Water, Waste, and Closure Plans","In the construction stage, the ARD/ML management plan is refined as appropriate based on changes in, for instance, construction plans, mine planning, ARD/ML geochemical verification, and characterisation programs and ARD/ML monitoring data.",(1) Should the ARD/ML management plan be updated?,Implementation of ARD/ML management activities commence during the construction stage. Implementation during construction usually includes adjustments and refinements of the ARD/ML management practices to improve operational efficiencies and to adjust to any changes in the construction plans. Relevant data and information are captured in the ARD/ML management plan for reference and use in the subsequent asset development stages.,"(1) ARD/ML management plan developed during the design stage
+(2) Results from geochemical verification and/ or characterisation programs during construction 
+(3) Changes in construction and/or mine plans
+(4) ARD/ML monitoring data
+(5) Any changes to (integrated) mine waste and water management plans","Results from geochemical verification and characterisation programs should be interpreted against program objectives and documented for reference in the ARD/ML management plan. Key findings from the construction stage geochemical verification and characterisation programs should be summarised in a revision of the ARD/ML management plan and included in the ARD/ML database for the mine site.
+
+Any changes to mine water and/or waste management concepts and plans should be reflected in the ARD/ML management plan to ensure consistency between the operational plans and supporting data/information. 
+
+It is essential that all disciplines and functions responsible for ARD/ML planning, mine planning, mine waste planning, mine water management planning, closure planning, and social engagement communicate on a regular basis and develop a record of topics discussed, decisions made, required actions, and responsible/accountable parties for execution of those actions.",(1) Develop and refine ARD/ML management plan → All leading practice activities,"(1) Chapter 3: Corporate, Regulatory, and Community Framework
+(2) Chapter 9: Acid Rock Drainage Management and Performance Assessment
+(3) Chapter 10: Acid Rock Drainage Communication and Consulting
+(4) Chapter 11: Sustainable Mine Closure ",No figure,No figure,No figure,Y
+30,Construction,Implement ARD/ML plan,Integration with Mine Planning and Operations,"The ARD/ML management plan is developed during the design stage and implemented in the construction stage through use of management systems and standard operating procedures. Management systems, such as environmental management systems (EMS) are used to implement construction stage ARD/ML management activities. ARD/ML management activities are defined in the ARD/ML management plan/or related environmental, mine water and mine waste and closure management and monitoring plans.","(1) Are mechanisms identified and described to implement the ARD/ML management plan in the construction asset development stage in an integrated way with mine planning, operations, and the closure plan?",Effective implementation of ARD/ML management activities during the construction stage is important to preventing and mitigating ARD/ML risks associated with the asset. It is in the construction stage where ARD/ML prevention and mitigation measures are put in place for the remainder of the life of asset. Proper implementation of ARD/ML management activities will also prevent the development of new ARD/ML risks as a result of construction activities. ,"(1) ARD/ML management plan with specific focus on ARD/ML activities identified for construction
+(2) Description of environmental management systems and relevant management system structure and activities
+(3) Standard operating procedures and/or specifications for ARD/ML management activities
+(4) Mine plan, which includes the integrated closure plan","It is essential that all functions responsible for ARD/ML planning, mine planning, mine waste planning, mine water management planning, closure planning, and social engagement communicate on a regular basis and develop a record of topics discussed, decisions made, required actions, and responsible/accountable parties for execution of those actions.","(1) Define and refine ARD/ML management plan → Development and integration with mine, water, waste, and closure plans
+(2) Monitor and assess performance → Transparency in data management and reporting
+(3) Continual improvement of ARD/ML practices → Adaptive management","(1) Chapter 9: Acid Rock Drainage Management and Performance Assessment
+(2) Chapter 10: Acid Rock Drainage Communication and Consulting
+(3) Chapter 11: Sustainable Mine Closure ",No figure,No figure,No figure,Y
+31,Construction,Monitor and assess performance,Transparency in Data Management and Reporting,"Monitoring is conducted to assess field performance as compared to the design goals and objectives of the ARD/ML management plan. Performance indicators reflect how well elements of the ARD/ML management plan are performing against expected values. If the objectives are met, performance assessment and monitoring continue throughout the life of asset, with periodic checks against the goals. If the objectives are not met, redesign and re-evaluation of the ARD/ML management plan, and performance assessment and monitoring systems for ARD/ML prevention and mitigation, are required. This additional work typically includes further geochemical characterisation and prediction assessments.","(1) Are the geochemical characteristics of the construction materials and early development mine waste rock and mine face exposure as expected?
+(2) Are chemical characteristics of the groundwater and surface water as expected?",The ARD/ML management plan is a dynamic document that is updated as required to incorporate site changes relevant to ARD/ML; the monitoring program is modified accordingly to adjust to changes in construction plans such that the defined objectives of the ARD/ML management plan continue to be met.,"(1) Results from geochemical characterisation program 
+(2) Results from prediction of drainage chemistry
+(3) Standard operating procedures
+(4) Company drainage prediction guidelines/requirements
+(5) Applicable regulatory guidelines and site permit requirements
+(6) Key performance indicators
+(7) Adaptive management ","Examples of performance indicators include:
+(1) Construction materials properties and placement locations relative to requirements in the mine plan
+(2) As-built construction relative to the design requirements, or
+(3) ARD/ML properties of mine wastes relative to those designed for in the mine plan.
+
+ARD/ML data and information obtained during the construction stage need to be compiled in a systematic manner in an electronic repository accessible to all functions involved with ARD/ML management. A record should be kept of formal discussions of ARD/ML related topics, decisions made, required actions, and responsible/accountable parties for execution of those actions.","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Develop and refine ARD/ML management plan → Characterisation
+(3) Develop and refine ARD/ML management plan → Prediction
+(4) Develop and refine ARD/ML management plan → Prevention, mitigation, and treatment
+(5) Define and refine ARD/ML management plan → Monitoring plan
+(6) Define and refine ARD/ML management plan → Development and integration with mine, water, waste, and closure plans
+(7) Implement ARD/ML management plan → Integration with mine planning and operations
+(8) Monitor and assess performance → Transparency in data management and reporting
+(9) Continual improvement of ARD/ML practices → Adaptive management
+(10) Integrated closure → Integrated closure","(1) Chapter 9: Acid Rock Drainage Management and Performance Assessment
+(2) Chapter 11: Sustainable Mine Closure ",No figure,No figure,No figure,Y
+32,Construction,Continual improvement of ARD/ML practices,Adaptive Management,"In the construction stage, the results from early monitoring and performance assessment are used to determine if the management practices are meeting the defined objectives of the ARD/ML management plan. An adaptive management plan is developed that describes the uncertainty to be addressed, the process/activities/timeline to address the uncertainty and fulfil the defined objectives of the ARD/ML management plan, the monitoring requirements, and the reporting process. 
+
+In the context of ARD/ML management, adaptive management/continual improvement is the process of using learnings and outcomes as a means to reduce uncertainties and improve management practices for ARD/ML over all asset stages. Since it is not practical to wait years or decades to confirm successful performance of waste management methods, adaptive management techniques are needed to respond to unexpected developments while maintaining environmental protection and cost control. GARD Guide Figure 6-4 illustrates adaptive management and implementation using a phased approach, which starts with the development of hypotheses and conceptual designs based on site characterisation and problem definition. The phased process can begin at any stage of asset development. The key step is to develop a system design that leads to a basis for ongoing evaluation of site conditions, the capacity to make decisions, implement improvements in system design, and verification of the performance of these designs. Regional and local experience at nearby mines, where available, should be used to minimise redundant investigations and to optimise the most successful methods for prevention and control. The phased approach leads to development of a monitoring and maintenance program that reinforces and improves system design and performance.","(1) Are the management practices in the construction stage meeting the defined objectives of the ARD/ML management plan or other integrated management plans, as applicable?","If the current defined objectives are not being met, the adaptive management process should be initiated to address and reduce uncertainties. Adaptive management plans are living documents that are continually updated as project or environmental conditions change. The ARD/ML management plan is similarly updated to reflect adaptive management.","(1) Changes to construction plans 
+(2) ARD/ML management plan and other integrated mine waste and water management plans
+(3) Construction stage monitoring and performance assessment results
+(4) Company drainage prediction guidelines/requirements
+(5) Applicable regulatory guidelines and site permit requirements
+(6) Key performance indicators","The encountered conditions during the construction stage, and the results of the monitoring program and performance assessment are compared to the results from the geochemical characterisation program and the predictions of drainage chemistry conducted during the design stage and to the defined objectives, standards and KPIs. Unexpected outcomes are assessed, and learnings are identified that will serve to reduce uncertainty. An adaptive management plan is developed that describes the uncertainty to be addressed and the process/activities/timeline to address the uncertainty and fulfil the defined objectives of the ARD/ML management plan. Based on the results of the adaptive management process, the practices described in the integrated mine waste, mine water, closure and ARD/ML management plans are then modified accordingly to better achieve the desired objective of the plans. The monitoring programs are also revised to improve the performance assessment process. ","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Define and refine ARD/ML management plan → Characterisation
+(3) Define and refine ARD/ML management plan → Prediction
+(4) Define and refine ARD/ML management plan → Monitoring plan
+(5) Implement ARD/ML management plan → Integration with mine planning and operations
+(6) Monitor and assess performance → Transparency in data management and reporting","(1) Chapter 6: Prevention and Mitigation
+(2) Chapter 6, Figure 6-3: Adaptive Management Approach to Prevention and Mitigation of ARD
+(3) Chapter 6, Figure 6-4: Adaptive Management Implementation by Phased Approach
+(4) Chapter 11: Sustainable Mine Closure ",Picture,Picture,No figure,Y
+33,Construction,Integrated closure,Integrated Closure,"The prediction, prevention, and management of ARD/ML is a critical component of closure planning for any asset where there is a potential for the generation of ARD/ML. Like ARD/ML management plans, closure plans are also developed iteratively, with increasing levels of detail and problem understanding over the life of asset. ARD/ML management plans should be prepared and implemented with consideration for eventual mine closure.",(1) Are mechanisms identified and documented for ARD/ML leading practice areas and activities that support ongoing closure planning?,"Rationale	The ARD/ML leading practice areas and activities conducted during the construction stage (ie ongoing geochemical characterisation and drainage prediction, development and implementation of prevention and mitigation measures, the initiation of monitoring and performance assessment, adaptive management) support the refinement of the early closure plan. The closure plan is updated as required based on new observations and data and/or on changes to the mine plan or construction activities.","(1) ARD/ML management plan developed during design 
+(2) Closure plan developed during design
+(3) Results from geochemical verification and/or characterisation programs during construction 
+(4) Changes in construction/mine plans
+(5) ARD/ML monitoring data
+(6) Company drainage prediction guidelines/requirements
+(7) Company closure guidelines/requirements
+(8) Applicable regulatory guidelines
+(9) Risk acceptance by company and stakeholders","If significant changes from the design stage arise during construction, or as new and confirmatory geochemical characterisation data are collected, the ARD/ML management plan and closure plan should be updated.","(1) Develop and refine ARD/ML management plan → Characterisation
+(2) Develop and refine ARD/ML management plan → Prediction 
+(3) Develop and refine ARD/ML management plan → Prevention, mitigation, and treatment 
+(4) Implement ARD/ML management plan → Integration with mine planning and operations
+(5) Monitor and assess performance → Transparency in data management and reporting
+(6) Continual improvement of ARD/ML practices → Adaptive management",(1) Chapter 11: Sustainable Mine Closure,No figure,No figure,No figure,Y
+34,Operations,ARD/ML Governance and Strategy,Define ARD/ML Governance and Strategy at Corporate Level,,,,,,,,,,,N
+35,Operations,"ARD/ML objectives, standards, and KPIs","Set ARD/ML Objectives, Standards, and KPIs at Asset Level","The ARD/ML objectives at the asset level should continue to remain relevant as site conditions evolve. As the asset transitions into operations, leading and lagging key performance indicators (KPIs) are used to assess the implementation of an ARD/ML management strategies.","(1) Are KPIs successfully allowing for the evaluation of ARD/ML objectives? 
+(2) Are ARD/ML objectives being achieved, exceeded, or not met?","If measures are not effective and objectives are not being met, then intervention and modification of prevention/mitigation measures will be required to reduce risk of further environmental impacts and reduce additional costs during operations and into closure.","(1) Up to date inventory of materials being produced by asset activities (see GARD Guide table 4-2), the volumes being produced, their geochemical characterisation data, and ARD/ML potential
+(2) Water quality monitoring data (seepage, drainage, receiving environment)",(1) Continued engagement with regulator and other asset stakeholders,"(1) ARD/ML governance and strategy → Define ARD/ML governance and strategy at corporate level
+(2) Monitor and assess performance → Transparency in data management and reporting
+(3) Continual improvement of ARD/ML practices → Adaptive management","(1) Chapter 3: Corporate, Regulatory, and Community Framework
+(2) Chapter 4: Defining the Problem – Characterisation
+(3) Chapter 8: Monitoring
+(4) Chapter 10: Acid Rock Drainage Communication and Consulting
+(5) Chapter 11: Sustainable Mine Closure ",Picture,No figure,No figure,Y
+36,Operations,Develop and refine ARD/ML management plan,Characterisation,"In this asset development stage, an ARD/ML management plan has been developed and outlines geochemical characterisation activities during operations. These typically focus on verification of mine waste ARD/ML properties. 
+
+Geochemical characterisation may be required of new materials (ore, mine waste) that have not been previously characterised (eg due to changes in the mine plan, encountering unexpected geological conditions, or changes to the metallurgical process). Characterisation programs initiated during exploration/design/construction are ongoing.","(1) Are there reasons to deviate from the verification or characterisation activities defined in the ARD/ML management plan?
+(2) Are there new materials requiring ARD/ML characterisation?","Implementation of operational geochemical characterisation and verification programs typically require adjustment to improve operational efficiency and practicality, as well as adapt to any changes in mine operation.","(1) ARD/ML management plan and specific characterisation and verification procedures for operations.
+(2) Changes to mine plan, specifically if new materials will be disturbed or produced.
+(3) Operational quality assurance/quality control reporting of geochemical characterisation and/or verification activities. ","(1) If adjustments to the characterisation and verification programs are required, document the reasons in revised ARD/ML management plan. The ARD/ML management plan is a dynamic document that is updated periodically to incorporate changes to ARD/ML management activities.
+(2) If new materials are characterised, follow site testing procedures
+(3) All data generated should be made available in a digital format and asset geochemical database.","(1) Develop and refine ARD/ML management plan → All leading practice activities
+(2) Develop and refine ARD/ML management plan → Characterisation
+(3) Monitor and assess performance → Transparency in data management and reporting","(1) Chapter 4: Defining the Problem – Characterisation
+(2) Chapter 4, Table 4-4: Geological Characteristics of Mineral Deposits that Affect Their Environmental Signatures 
+(3) Chapter 5: Prediction
+(4) Chapter 9: ARD/ML Management and Performance Assessment",Picture,No figure,No figure,Y
+37,Operations,Develop and refine ARD/ML management plan,Prediction,"During operations, the prediction of drainage chemistry from mine and process wastes focuses on validating predictions made during the asset’s design stage. Data obtained from water quality monitoring programs and ongoing geochemical characterisation programs, combined with operational material management data (eg waste production rates, water volumes), are used to periodically update and refine drainage predictions.
+
+Drainage chemistry predictions are updated if there are significant changes to the mine plan and/or operations (eg mine expansions into uncharacterised rock, new processing methods, new mine waste disposal practices).","(1) Are drainage chemistry predictions that require updating during the operations asset development stage identified?
+(2) Are appropriate time frames defined for drainage chemistry predictions that require updating?","Changes to the mine plan during operations can affect asset-wide drainage characteristics and predictions should be updated to maintain or improve their accuracy. These updated predictions are used to identify and implement potential operational efficiencies, inform decisions to amend ARD/ML controls and management plans, reduce long-term uncertainty in predicted values and inform integrated closure planning.","(1) ARD/ML management plan, specific prediction commitments during operations and closure, water quality objectives, and/or threshold parameters. The ARD/ML management plan provides an inventory of drainage predictions conducted in support of the mine design, environmental assessment and mine permitting.
+(2) Changes to the mine plan and operational practices such as mine expansion plans, processing methods, and/or mine waste disposal practices.
+(3) Surface and groundwater water quality monitoring data relevant to ARD/ML.
+(4) Operational material management data (waste production rates, water volumes etc.)
+(5) Results from geochemical characterisation and/or verification activities.
+(6) Mine water and mine waste management plans
+(7) Integrated closure plan","Facility-level and asset-wide drainage chemistry predictions should be updated when there are significant changes to the mine plan or operations such as mining new areas, encountering new geological materials, changes to operating procedures, and changes to mine waste or mine water management strategies. If updated predicted drainage chemistries are significantly different compared to previous predictions, consideration should be given to updating the asset’s water quality model.
+
+Comparing water quality monitoring data during operations with predicted values assesses the performance of ARD/ML measures. Significant deviation from predicted values is a trigger to consider updating all or part of the asset’s water quality model (including additional geochemical characterisation and source term updates). In parallel, evaluate mine water and mine waste management practices to determine their efficacy, and closure plans to maintain relevance to the current situation and liabilities.
+
+Water quality models can be used to evaluate alternative water management concepts and strategies. Models should be updated when water management strategies are updated. 
+
+All data and information generated by prediction activities should be made available in a digital format, included (consolidated) and properly referenced in the ARD/ML management plan.
+
+Significant changes in predicted drainage chemistries should be communicated for inclusion in closure planning and liability reporting.","(1) Develop and refine ARD/ML management plan → All leading practice activities 
+(2) Develop and refine ARD/ML management plan → Characterisation
+(3) Implement ARD/ML management plan → Development and integration with mine, water, waste, and closure plans
+(4) Monitor and assess performance → Transparency in data management and reporting 
+(5) Integrated closure → Integrated closure","(1) Chapter 4: Defining the Problem - Characterisation
+(2) Chapter 4, Table 4-4: Geological Characteristics of Mineral Deposits that Affect Their Environmental Signatures
+(3) Chapter 5: Prediction
+(4) Chapter 9: ARD/ML Management and Performance Assessment
+(5) Chapter 11: Sustainable Mine Closure",Picture,No figure,No figure,Y
+38,Operations,Develop and refine ARD/ML management plan,"Prevention, Mitigation, and Treatment","In the operations stage, the prevention and mitigation measures described in the ARD/ML management plan are followed. Monitoring, data analysis and interpretation are conducted as described in the ARD/ML management plan and the results are used to inform the adaptive management process and update the ARD/ML management plan as needed.
+
+The integrated closure plan is also updated throughout operations and describes any additional or different prevention and mitigation measures proposed for closure and post closure. ","(1) Are there changes that occur during the operations Stage that warrant a change in the described prevention, mitigation, or treatment strategies in the ARD/ML management plan, which incorporates the closure and post closure stages?","During the operations stage, the prevention, mitigation, and treatment strategies are implemented, and monitoring and performance assessment activities are carried out. The results of the monitoring and performance evaluation are used to reassess the effectiveness of the prevention, mitigation and treatment measures described in the ARD/ML management plan (which incorporates the closure and post closure stages), and the measures and plans are revised as appropriate.","(1) Results from geochemical characterisation program 
+(2) Results from prediction of drainage chemistry
+(3) Standard operating procedures
+(4) Company drainage prediction guidelines/requirements
+(5) Applicable regulatory guidelines and site permit requirements
+(6) Monitoring data
+(7) Key performance indicators","Methods for prevention and mitigation of ARD/ML applied during the operations stage for facilities such as waste rock and tailings storage facilities, open pits and underground workings may include, but are not limited to:
+(1) re-mining to remove remaining valuable material, improve waste disposal systems, and reduce sulphide minerals
+(2) waste rock segregation into potentially acid generating/forming and non-potentially acid generating/forming, where potentially acid generating/forming materials may be used or placed in engineered configurations to minimise impacts to the receiving environment
+(3) tailings desulphurisation - separation of non-economic sulphide minerals into a low-volume stream, leaving the majority of the tailings with a low sulphur content that will be less reactive and preferably non-acid generating
+(4) compaction and physical tailings conditioning (eg thickening, filtration, compaction, and gradation control) to improve physical properties, such as reduction of hydraulic conductivity, to limit the ARD/ML process
+(5) encapsulation/layering - acid producing and acid consuming materials (typically waste rock) are placed in geometries designed to control or limit ARD/ML
+(6) blending - mixing waste rock types of varying acid generation and neutralisation potential to create a deposit that generates a discharge of acceptable quality
+(7) co-disposal of waste rock/tailings to reduce access to oxygen and reduce flow rates
+(8) additions and amendments (eg passivation, alkaline materials, organic matter, bactericides)
+(9) water management methods to reduce infiltration and thereby reduce the volume of affected drainage/potential contaminant loading (eg hydrogeological/hydrodynamic controls, dewatering, diversion, flooding, seals)
+(10) engineered barriers to either cover waste or to provide a bottom barrier (eg liners, dry covers, water covers) or both
+
+A risk assessment should be conducted to evaluate all aspects of the treatment process using a standard Failure Modes and Effects Analysis approach, which assesses risk based on consequence and likelihood. Five main areas are typically included: (1) influent volume and quality, (2) treatment system, (3) effluent volume and quality, (4) byproduct management, and (5) site conditions. A wide spectrum of active, passive, and in-situ drainage treatment technologies has been developed, proven, and applied to many different applications. If the results of the Operations Stage monitoring and performance assessment require reassessment of the applicability of the prevention, mitigation and treatment measures described in the ARD/ML management plan, the ARD/ML management plan is revised as appropriate.","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Develop and refine ARD/ML management plan → Characterisation
+(3) Develop and refine ARD/ML management plan → Prediction
+(4) Develop and refine ARD/ML management plan → Monitoring plan
+(5) Implement ARD/ML management plan → Development and integration with mine, water, waste, and closure plans
+(6) Monitor and assess performance → Transparency in data management and reporting","(1) Chapter 6: Prevention and Mitigation
+(2) Chapter 6, Figure 6-1: Options and Effectiveness with Time
+(3) Chapter 6, Figure 6-18: Prevention and Mitigation Evaluation of Alternatives
+(4) Chapter 6, Table 6-7: Summary of Prevention and Mitigative Measures and Climate Considerations
+(5) Chapter 7, Section 7.5: Mine Drainage Treatment Technologies
+(6) Chapter 11: Sustainable Mine Closure",Picture,Picture,Picture,Y
+39,Operations,Develop and refine ARD/ML management plan,Monitoring Program Plan,"During operations, ARD/ML monitoring focuses on data collection and data management per the monitoring plan. The monitoring plan is refined as appropriate based on changed findings, expectations, and conditions. Changes in mine operation, in particular, may require an adjustment of the monitoring plan.",(1) Are changes to the monitoring program warranted based on changed objectives or conditions or on learnings from the adaptive management process?,The ARD/ML management plan is a dynamic document that is updated as required to incorporate site changes relevant to ARD/ML; the monitoring program is modified accordingly such that the defined objectives of the ARD/ML management plan continue to be met.,"(1) Changes to the mine plan
+(2) Company drainage prediction guidelines/requirements
+(3) Applicable regulatory guidelines and site permit requirements
+(4) Monitoring data from previous stages","Monitoring program components may include:
+(1) Mine workings (eg sump and dewatering well water quality, pit lake, wall washing from mine and pit walls)
+(2) Waste rock piles (eg seepage, runoff, pore water, gas transfer, temperature, oxygen profiles)
+(3) Tailings storage facility (eg pore water from saturated and unsaturated zones, runoff, seepage, water cover, hydraulic conductivity, hydraulic head, air permeability, moisture content, pore gas oxygen)
+(4) Climate (eg precipitation gauges, evaporation pans, snowpack, wind, temperature)
+(5) Surface water flow and quality at exposure and reference areas
+(6) Sediment quality at exposure and reference areas
+(7) Groundwater flow and quality at exposure and reference areas
+(8) Biological receptors at exposure and reference areas (eg fish, benthic macroinvertebrates, periphyton, amphibians) 
+(9) Statistical considerations (eg sample variation, frequency distribution) 
+(10) Sampling frequency (eg considering climate and temporal variability in ARD/ML release and in receptor sensitivity)
+(11) Sampling methods and protocols (eg site specific characteristics, permit requirements, and required accuracy and precision, standard operating procedures)
+(12) Analytes and laboratory methods (the parameters typically of most relevance for ARD monitoring programs are: pH, acidity, alkalinity, electrical conductivity, and sulphate and metals of interest as determined for a particular asset during characterisation)
+(13) Quality assurance/quality control procedures
+
+If modifications to the monitoring program are required to meet the objectives of the ARD/ML management plan, the monitoring plan is updated accordingly.","(1) Develop and refine ARD/ML management plan → Characterisation
+(2) Develop and Refine ARD/ML management plan → Prediction
+(3) Develop and Refine ARD/ML management plan → Prevention, mitigation, and treatment
+(4) Define and refine ARD/ML management plan → Monitoring plan
+(5) Define and refine ARD/ML management plan → Integration with mine, water, and waste planning
+(6) Implement ARD/ML management plan → Integration with mine planning and operations
+(7) Monitor and assess performance → Transparency in data management and reporting
+(8) Continual improvement of ARD/ML practices → Adaptive management
+(9) Integrated closure → Integrated closure","(1) Chapter 8: Monitoring
+(2) Chapter 8, Table 8-5: Monitoring Activity Guidance
+(3) Chapter 11: Sustainable Mine Closure ",Picture,No figure,No figure,Y
+40,Operations,Develop and refine ARD/ML management plan,"Development and Integration with Mine, Water, Waste, and Closure Plans","In the operational stage, the ARD/ML management plan is updated as needed with operational geochemical verification and characterisation data, ARD/ML monitoring data, changes to mine and/or closure plans, changes to water and/or waste management strategies/measures.",(1) Should the ARD/ML management plan be updated?,"ARD/ML management activities are operationalised during the operations stage and performance monitoring is used to evaluate the effectiveness of the measures. During operations, the ARD/ML management plan and its updates represent a critical resource to capture ARD/ML monitoring data, changes to ARD/ML prevention and mitigation measures, and changes in mine planning and closure planning. The updated ARD/ML management plan creates efficiencies for integrated closure planning and the closure stage.","(1) Results from geochemical verification and/or characterisation programs during operations
+(2) New or updated drainage chemistry predictions
+(3) Relevant mine waste and water operational data (production records, material masses stored, water volumes managed)
+(4) Changes in mine plan and/or closure plan
+(5) ARD/ML monitoring data
+(6) Any changes to (integrated) mine waste and water management strategies or measures","The ARD/ML management plan is updated during the operational stage to represent the consolidated repository of all ARD/ML data, information, measures, and commitments associated with the asset. Updated ARD/ML management plans also act as a reference for ARD/ML components of operational management and monitoring plans.
+
+Potential triggers to update the ARD/ML management plan include:
+(1) Changes to the ARD/ML strategy for the mine site. 
+(2) Changes to the mine plan and/or closure plan.
+(3) Changes in mine water or waste management strategies or measures
+(4) To support mine planning (forecasting) initiatives
+
+Results from geochemical verification and characterisation programs should be interpreted against program objectives and documented for reference in the ARD/ML management plan. Key findings should be summarised in a revision of the ARD/ML management plan and included in the ARD/ML database for the mine site.
+
+It is essential that all functions responsible for ARD/ML planning, mine planning, mine waste planning, mine water management planning, closure planning, and social engagement communicate on a regular basis and develop a record of topics discussed, decisions made, required actions, and responsible/accountable parties for execution of those actions.","(1) Develop and refine ARD/ML management plan → All leading practice activities
+(2) Integrated closure → Integrated closure","(1) Chapter 3: Corporate, Regulatory, and Community Framework
+(2) Chapter 9: Acid Rock Drainage Management and Performance Assessment
+(3) Chapter 10: Acid Rock Drainage Communication and Consulting
+(4) Chapter 11: Sustainable Mine Closure",No figure,No figure,No figure,Y
+41,Operations,Implement ARD/ML plan,Integration with Mine Planning and Operations,"During the operations stage, the ARD/ML management plan updated during the construction stage is implemented. Implementation of the ARD/ML management plan takes place through management systems and standard operating procedures. Management systems, such as environmental management systems (EMS) are used to implement ARD/ML management activities defined for the operations stage. ARD/ML management activities are defined in the ARD/ML management plan/or related environmental, mine water and mine waste management and monitoring plans.","(1) Are mechanisms identified and described to implement the ARD/ML management plan in the operations asset development stage in an integrated way with mine planning, operations, and the closure plan?","Effective implementation of ARD/ML management activities during the operations stage is critical to the effective prevention and mitigating of ARD/ML risks associated with the asset. 
+
+Effective implementation and operationalisation of ARD/ML management, prevention and mitigation measures is required to reduce the ARD/ML risks to levels that meet regulatory requirements, asset financial goals, closure objectives and stakeholder expectations. ","(1) ARD/ML management plan with specific focus on ARD/ML activities identified for operation
+(2) Environmental, mine water and mine waste management, monitoring and closure plans with specific focus on ARD/ML management activities that are embedded in these plans
+(3) Description of environmental monitoring systems or relevant management system structure and activities
+(4) Standard operating procedures and/or specifications for ARD/ML management activities","A key objective of the ARD/ML management plan is to identify and describe the ARD/ML management activities that are to be implemented during the operations stage. The execution of these activities requires appropriate allocation of responsibilities for these tasks. The asset’s general manager is ultimately accountable for the implementation of the ARD/ML management plan. Mine or mill managers are typically responsible for the implementation of the ARD/ML management plan. Monitoring activities can be incorporated in broader environmental or geological monitoring programs with appropriate accountability assigned. ARD/ML related monitoring activities require standard operating procedures.
+
+Geochemical verification (quality assurance/quality control) activities related to mine waste (tailings, waste rock, process wastes) production are typically captured in the design specifications and/or standard operating procedures for these activities. Responsibility for these tasks is assigned to the relevant department with appropriate accountability assigned. Tasks can be performed by suitably qualified internal staff or external contractors/consultants.
+
+Reviews/audits of the ARD/ML management plan typically occur during the operations stage. This could include evaluating field data and assessing performance against the plan objectives, interpreting the data, and linking data from the construction activities (eg comparing mine dispatch data on segregation of waste rock against seep survey data from the dump or evaluating geochemical suitability of construction materials). Where required, evaluation should be completed be an appropriately qualified scientist/engineer with practical experience across relevant disciplines to ensure that the ARD/ML management issues relevant to the mining and process operation are understood directly at the asset level.
+
+Various ARD/ML related assessments, including responding to changes in the mine plan (requiring additional characterisation, prediction, prevention and mitigation), the optimisation of mine water and mine waste management strategies, evaluation of ARD/ML related closure measures and updating of post closure drainage chemistry predictions, take place during the operations stage. Learnings or adjustments resulting from the implementation of the ARD/ML management activities should be included in the next version of the ARD/ML management plan. It is essential that all functions responsible for ARD/ML planning, mine planning, mine waste planning, mine water management planning, closure planning, and social engagement communicate on a regular basis and develop a record of topics discussed, decisions made, required actions, and responsible/accountable parties for execution of those actions.","(1) Define and refine ARD/ML management plan → Development and integration with mine, water, waste, and closure plans
+(2) Monitor and assess performance → Transparency in data management and reporting
+(3) Continual improvement of ARD/ML practices → Adaptive management","(1) Chapter 9: Acid Rock Drainage Management and Performance Assessment
+(2) Chapter 10: Acid Rock Drainage Communication and Consulting
+(3) Chapter 11: Sustainable Mine Closure",No figure,No figure,No figure,Y
+42,Operations,Monitor and assess performance,Transparency in Data Management and Reporting,"As mining progresses in operations, effects of weathering of the exposed mineralised rock, mine, and process wastes become more apparent. Monitoring of existing mine-waste facilities and mine voids (eg open pit, underground mine) provides valuable data on geochemical reaction rates under field conditions. With an ARD/ML management plan in place, the fundamental objective of performance assessment and monitoring is to determine the effectiveness of that plan rather than simply the evolution of the ARD/ML process.","(1) Is the evolution of ARD/ML from sources/deposits under the applied control measures developing in accordance with model predictions? 
+(2) Are the control systems working? 
+(3) Is the performance of ARD/ML activities, as defined in the ARD/ML management plan, meeting performance objectives and criteria?","Implementation indicators reflect how well the ARD/ML management plan is being executed. Performance indicators reflect how well elements of the ARD/ML management plan are performing against expected performance values. Monitoring involves the measurement of implementation and performance in accordance with indicators, both leading indicators to predict future performance and lagging indicators to reflect past performance. Assessment involves the comparison of observed indicator values compared to expected values. If assessment indicates that achieved performance indicators vary significantly from the expected values in the ARD/ML management plan, it must be modified to achieve the desired performance (objectives) through the process of adaptive management.","(1) Results from geochemical characterisation program 
+(2) Results from prediction of drainage chemistry
+(3) Mine plan and closure plan
+(4) Company drainage prediction guidelines/requirements
+(5) Applicable regulatory guidelines and site permit requirements
+(6) Standard operating procedures
+(7) Key Performance Indicators
+(8) Adaptive management
+(9) Mine workings (sump and dewatering well water quality, pit lake, wall washing from mine and pit walls)
+(10) Waste rock piles (seepage, runoff, pore water, gas transfer, temperature, oxygen profiles)
+(11) Tailings storage facility (pore water from saturated and unsaturated zones, runoff, seepage, water cover, hydraulic conductivity, hydraulic head, air permeability, moisture content, pore gas oxygen)
+(12) Climate (precipitation gauges, evaporation pans, snowpack, wind, temperature)
+(13) Surface water flow and quality at exposure and reference areas
+(14) Sediment quality at exposure and reference areas
+(15) Groundwater flow and quality at exposure and reference areas
+(16) Biological receptors (fish, benthic macroinvertebrates, periphyton, amphibians) at exposure and reference areas
+(17) Statistical considerations (eg sample variation, frequency distribution 
+(18) Sampling frequency (eg considering climate and temporal variability in ARD/ML release and in receptor sensitivity)
+(19) Sampling methods and protocols (eg site-specific characteristics, permit requirements, required accuracy and precision, standard operating procedures)
+(20) Analytes and laboratory methods (the parameters typically of most relevance for ARD monitoring programs are: pH, acidity, alkalinity, electrical conductivity, and sulphate and metals of interest as determined for a particular asset during characterisation
+(21) Quality assurance/quality control procedures","Examples of deviations and variances from planned/expected conditions requiring further evaluation are:
+(1) ARD/ML properties from those designed for in the mine plan
+(2) Waste quantities and management procedures from the mine plan
+(3) ARD/ML water flows, water balance and treatment operation from the mine plan
+(4) Seepage water quality from waste rock piles or in groundwater quality 
+(5) Treated water discharge qualities compared with treatment quality objectives
+(6) Observed versus predicted time histories, for instance for evolution of water qualities 
+
+Any such deviations/variances indicate a need for recalibration of predictive models and reassessment of control measures effectiveness and requirements to meet the long-term objectives of the ARD/ML management plan. Indicators used for monitoring environmental impacts are typically a measure of quantity and quality of the natural resources and biota over and downstream of sources/deposits (eg vegetation and biota species abundance, surface water/groundwater quality in the receiving environment).
+
+ARD/ML data and information obtained during the operations stage need to be compiled in a systematic manner in an electronic repository accessible to all functions involved with ARD/ML management. A record should be kept of formal discussions of ARD/ML related topics, decisions made, required actions, and responsible/accountable parties for execution of those actions. Data management procedures should include standard recordkeeping procedures, document control, and the approach for electronic storage and retrieval. Ongoing data evaluation is required to assess data quality and provide feedback to environmental management systems (eg evaluation of water quality trends to identify the onset of ARD/ML or the need for modifications of sample locations, frequencies or analytical parameters).
+
+To enable the rapid assessment of implementation and performance of ARD/ML management measures, trigger values should be established for ‘alerts’ and ‘response’ actions. When an ‘alert’ value is reached during monitoring, an increased level of monitoring and assessment is triggered. When a ‘response’ value is reached, the required assessment and response actions (eg contingency measures) should be initiated.","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Develop and refine ARD/ML management plan → Characterisation
+(3) Develop and refine ARD/ML management plan → Prediction
+(4) Develop and refine ARD/ML management plan → Prevention, mitigation, and treatment
+(5) Define and refine ARD/ML management plan → Monitoring plan
+(6) Define and refine ARD/ML management plan → Development and integration with mine, water, waste, and closure plans
+(7) Implement ARD/ML management plan → Integration with mine planning and operations
+(8) Monitor and assess performance → Transparency in data management and reporting
+(9) Continual improvement of ARD/ML practices → Adaptive management
+(10) Integrated closure → Integrated closure","(1) Chapter 9: Acid Rock Drainage Management and Performance Assessment
+(2) Chapter 9, Figure 9-1: Flowchart for Performance Assessment and Management Review
+(3) Chapter 9, Table 9-4: Monitoring and Performance Assessment of Success
+(4) Chapter 11: Sustainable Mine Closure ",Picture,Picture,No figure,Y
+43,Operations,Continual improvement of ARD/ML practices,Adaptive Management,"In the operations stage, the monitoring and performance assessment results are used to determine if the management practices are meeting the defined objectives of the ARD/ML management plan. The adaptive management plan describes the uncertainty to be addressed and the process/activities/timeline to address the uncertainty and fulfil the defined objectives of the ARD/ML management plan. ","(1) Are the management practices in the current asset stage meeting the defined objectives of the ARD/ML management plan or other integrated management plans, as applicable?","If the current defined objectives are not being met, the adaptive management process should be initiated to address and reduce uncertainties. Adaptive management plans are living documents that are continually updated as project or environmental conditions change. The ARD/ML management plan is similarly updated to reflect adaptive management.","(1) ARD/ML management plan and other integrated mine waste and water management and closure plans
+(2) Operations stage monitoring and performance assessment results
+(3) Company drainage prediction guidelines/requirements
+(4) Applicable regulatory guidelines and site permit requirements
+(5) Key performance indicators","The results of the monitoring program and performance assessment during the operations stage are compared to the results from the geochemical characterisation program and the predictions of drainage chemistry conducted during previous stages and to the defined objectives, standards and KPIs. Unexpected outcomes are assessed, and learnings are identified that will serve to reduce uncertainty. The adaptive management plan describes the uncertainty to be addressed and the process/activities/timeline to address the uncertainty and fulfil the defined objectives of the ARD/ML management plan. Based on the results of the adaptive management process, the practices described in the integrated mine waste, mine water, closure, and ARD/ML management plans are then modified accordingly to better achieve the desired objective of the Plans. The monitoring programs are also revised to improve the performance assessment process.","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Define and refine ARD/ML management plan → Characterisation
+(3) Define and refine ARD/ML management plan → Prediction
+(4) Define and refine ARD/ML management plan → Monitoring plan
+(5) Implement ARD/ML management plan → Integration with mine planning and operations
+(6) Monitor and assess performance → Transparency in data management and reporting","(1) Chapter 6: Prevention and Mitigation
+(2) Chapter 6, Figure 6-4: Adaptive Management Implementation by Phased Approach
+(3) Chapter 11: Sustainable Mine Closure",Picture,No figure,No figure,Y
+44,Operations,Integrated closure,Integrated Closure,"As closure planning progresses during operations, knowledge gaps are closed, closure options are assessed, field trials are implemented to reduce uncertainty, and operational and/or closure designs are refined. This process provides direct feedback to the ARD/ML characterisation and prediction programs, identifying knowledge gaps that may need to be addressed through those programs before operational and/or closure design can be finalised. Unplanned closure is also more likely for most assets than closure at the exhaustion of a resource. Progressive management of ARD/ML impacts reduces the potential uncertainty, liability, and risk associated with unplanned closure. Characterisation and prediction programs for operations are refined based on the evolving needs of the mine and closure plans. ",(1) Are mechanisms identified and documented for ARD/ML leading practice areas and activities that support ongoing closure planning to ensure that closure execution is efficient and effective?,"The ARD/ML leading practice areas and activities conducted during the operations stage are used to further refine and add detail to the closure plan. During this stage, a significant amount of information on the ARD/ML sources, characterisation (maturity), and prediction of future ARD/ML generation is obtained through confirmatory and ongoing characterisation and prediction activities. Prevention, mitigation, and treatment activities and the results of the monitoring and performance assessment are used to inform the design of closure options in consultation with stakeholders. As the operations stage advances toward closure, the closure plan is progressively updated with an increasing level of detail on the assessment of chemical stability and the design of closure measures.","(1) ARD/ML management plan refined during construction 
+(2) Closure plan refined during construction
+(2) Results from geochemical verification and/ or characterisation programs during construction 
+(3) Changes in mine plan
+(4) ARD/ML monitoring data
+(5) Company drainage prediction guidelines/requirements
+(6) Company closure guidelines/requirements
+(7) Applicable regulatory guidelines
+(8) Risk acceptance by company and stakeholders
+(9) Feedback on closure vision and design from ongoing stakeholder engagement ","It is not uncommon to make important determinations on closure technologies during operations, particularly where operational management of ARD/ML is evidenced to not be successful and the likelihood of active closure mitigation, which may include ongoing water treatment, increases (eg is treatment needed? Which constituents need to be removed by treatment? How long will treatment be needed? Is active or passive treatment required?). Similarly, adaptive management is frequently employed during operations to adjust practices related to ARD/ML management.
+
+It is considered leading practice to implement progressive closure (aka concurrent closure) where practical. Progressive closure is the implementation of closure works during the operations Stage. For example, (portions of) waste rock facilities or tailings impoundments may be partially or fully closed with covers placed while other facilities are still in operation. Similarly, (portions of) open pits and underground workings may be backfilled with mine waste. As needed, and on an incremental basis, detailed (construction) level designs are developed during operations for any progressive closure activities. In addition to reducing the overall closure liability for the asset, this provides a practical way to evaluate performance and refine the technologies that will be applied in the final closure. Progressive closure requires a degree of certainty around closure actions to be undertaken for a particular mine landform or facility. Hence, having a clear understanding of closure options, including source control, available to mitigate ARD/ML early in the life of the asset and advancing the options selection process is essential to being able to successfully implement progressive closure activities.","(1) Develop and refine ARD/ML management plan → Characterisation
+(2) Develop and refine ARD/ML management plan → Prediction 
+(3) Develop and refine ARD/ML management plan → Prevention, mitigation, and treatment 
+(4) Implement ARD/ML management plan → Integration with mine planning and operations
+(5) Monitor and assess performance → Transparency in data management and reporting
+(6) Continual improvement of ARD/ML practices → Adaptive management","(1) Chapter 10: Acid Rock Drainage Communication and Consulting 
+(2) Chapter 11: Sustainable Mine Closure",No figure,No figure,No figure,Y
+45,Closure,ARD/ML Governance and Strategy,Define ARD/ML Governance and Strategy at Corporate Level,,,,,,,,,,,N
+46,Closure,"ARD/ML objectives, standards, and KPIs","Set ARD/ML Objectives, Standards, and KPIs at Asset Level","The ARD/ML objectives at the asset level should continue to remain relevant as site conditions evolve. As the asset transitions into closure, leading and lagging key performance indicators (KPIs) continue to be used to assess the implementation of an ARD/ML management strategies.","(1) Are ARD/ML KPIs and objectives still applicable to closure and post-closure or do they require modification? 
+(2) Are ARD/ML KPIs and objectives modelled to be achieved, exceeded, or not met in the long term?","If measures are not effective and objectives are not being met, then intervention and modification of prevention/mitigation measures may be required to reduce risk of further environmental impacts and additional costs during Closure and post-closure.","(1) Water quality monitoring data 
+(2) ARD/ML sources, pathways, and receptors 
+(3) Long-term predictions and modelling based on current site context and monitoring data, incorporating climate change predictions and regional activities that may influence outcomes
+(4) Closure outcome and post-closure land use to be achieved",(1) Continued engagement with regulator and other asset stakeholders,"(1) ARD/ML governance and strategy → Define ARD/ML governance and strategy at corporate level
+(2) Monitor and assess performance → Transparency in data management and reporting [closure]
+(3) Continual improvement of ARD/ML practices → Adaptive management","(1) Chapter 3: Corporate, Regulatory, and Community Framework
+(2) Chapter 8: Monitoring 
+(3) Chapter 10: Acid Rock Drainage Communication and Consulting
+(4) Chapter 11: Sustainable Mine Closure ",Picture,No figure,No figure,Y
+47,Closure,Develop and refine ARD/ML management plan,Characterisation,"Geochemical characterisation during closure may be required if new construction materials are being considered for closure activities, such as borrow sources for covers. In the event of dealing with an existing closed asset (ie legacy asset), available information and data should be reviewed against the requirements of the ARD/ML practices and activities defined in the preceding asset development stages.",(1) Are there new materials requiring ARD/ML characterisation?,Implementation of closure geochemical characterisation programs due to new materials being considered for closure activities.,(1) ARD/ML management plan and specific characterisation and verification procedures for materials used in closure.,"(1) If adjustments to the characterisation and verification programs are required, document the reasons in revised ARD/ML management plan. The ARD/ML management plan is a dynamic document that is updated periodically to incorporate changes to ARD/ML management activities.
+(2) If new materials are characterised, follow site testing procedures (for more details select Design → Develop/Refine ARD/ML management plan → Characterisation).
+(3) All data generated should be made available in a digital format and asset geochemical database.","(1) Develop and Refine ARD/ML management plan → All leading practice activities
+(2) Develop and refine ARD/ML management plan → Characterisation
+(3) Monitor and assess performance → Transparency in data management and reporting","(1) Chapter 4: Defining the Problem – Characterisation
+(2) Chapter 4, Table 4-4: Geological Characteristics of Mineral Deposits that Affect Their Environmental Signatures 
+(3) Chapter 5: Prediction
+(4) Chapter 9: ARD/ML Management and Performance Assessment
+(5) Chapter 11: Sustainable Mine Closure ",Picture,No figure,No figure,Y
+48,Closure,Develop and refine ARD/ML management plan,Prediction,"During closure, the objective of updating drainage chemistry prediction is to (1) support the final confirmation of closure options at the individual domain level and asset/site-wide level, and (2) predict post-closure drainage compositions to inform closure planning. In the event of dealing with an existing closed asset (ie legacy asset), available information and data should be reviewed against the requirements of the ARD/ML practices and activities defined in the preceding asset development stages.",(1) Are drainage chemistry predictions that require updating during the closure asset development stage identified?,"The accurate prediction of drainage chemistries is particularly critical during closure as they affect the ability to achieve closure outcomes and minimise closure liabilities. While all modelling since the design stage should incorporate the closure and post-closure timeframes, in the event that this has not occurred, models predicting closure and post-closure drainage chemistries are calibrated with monitoring data and then used to evaluate the effectiveness of closure measures and their ability to achieve closure objectives. Prediction of drainage chemistries extending into the post-closure stage is also critical to demonstrate compliance with water quality objectives/criteria and understand the long-term nature of ongoing closure activities such as water treatment.","(1) Closure plan, including closure outcomes and objectives, layouts/designs of closure domains, and proposed post-mining land capability and use(s).
+(2) Surface and groundwater water quality monitoring data relevant to ARD/ML.
+(3) Operational material management data (waste production rates, encapsulation designs, water volumes etc.)
+(4) Results from geochemical characterisation and/or verification activities. 
+(5) ARD/ML management plan that provides an inventory of drainage predictions conducted over the life of asset.","Closure presents the opportunity for the most accurate prediction of drainage chemistries for the post-closure asset development stage. During this stage, mine waste and water inventories are measured (not predicted), monitoring data indicating performance of ARD/ML measures are available, and the history of water and waste management is recorded. 
+
+This information is used to update drainage chemistry predictions of all mine landforms remaining after closure (eg pits, waste rock storage facilities, underground workings, tailings storage facilities). Where mine water will be actively managed during the post-closure stage (eg water treatment, controlled release), the asset’s water quality model is updated to reflect the closure water management strategy.
+
+All data and information generated by prediction activities should be made available in a digital format, included (consolidated) and properly referenced in the ARD/ML management plan.","Links to other ARD/ML Leading practices Areas/Activities	
+(1) Develop and refine ARD/ML management plan → All leading practice activities
+(2) Monitor and assess performance → Transparency in data management and reporting
+(3) Integrated closure → Integrated closure","(1) Chapter 4: Defining the Problem - Characterisation
+(2) Chapter 5: Prediction
+(3) Chapter 9: ARD/ML Management and Performance Assessment
+(4) Chapter 11: Sustainable Mine Closure",No figure,No figure,No figure,Y
+49,Closure,Develop and refine ARD/ML management plan,"Prevention, Mitigation, and Treatment","In the closure stage, the prevention and mitigation measures described in the ARD/ML management plan, incorporating closure and post-closure stages, have been largely executed. Monitoring, data analysis and interpretation are conducted as described in the ARD/ML management plan, and the results are used to inform the adaptive management process for implementation during the closure stage as needed. In the event of dealing with an existing closed asset (ie legacy asset), available information and data should be reviewed against the requirements of the ARD/ML practices and activities defined in the preceding asset development stages.","(1) Are the objectives, KPIs, requirements, and expectations still applicable to the closure stage? 
+(2) Are there changes that occur during the closure stage that warrant a change in the described prevention, mitigation or treatment strategies in the ARD/ML management plan and closure plan?","During the closure stage, the prevention, mitigation, and treatment strategies are implemented, and monitoring and performance assessment activities are carried out. The results of the monitoring and performance assessment are used to reassess the effectiveness of the prevention, mitigation and treatment measures described in the ARD/ML management plan and closure plan, and the measures are revised as appropriate.","(1) Results from geochemical characterisation program 
+(2) Results from prediction of drainage chemistry
+(3) Standard operating procedures
+(4) Company drainage prediction guidelines/requirements
+(5) Applicable regulatory guidelines and site permit requirements
+(6) Monitoring data
+(7) Key performance indicators
+(8) ARD/ML management plan, including monitoring results and evidence for compliance to plan 
+(9) Closure plan","Methods for prevention and mitigation of ARD/ML applied during the closure stage for sources of ARD/ML (eg waste rock, tailings, open pit/high walls, underground workings, heap leaches, borrow pits) may include, but are not limited to:
+(1) relocation of source material
+(2) dry or water covers
+(3) flooding of open pits or underground workings
+(4) underground workings seals
+(5) reprocessing of source materials 
+
+The approach to mine drainage treatment during and after closure of mining operations must be placed in context with respect to the following factors:
+(1) Closure outcomes, objectives and criteria
+(2) Predicted changes in mine drainage flow and quality
+(3) Climate change over the long term
+(4) Long-term land holdings and maintenance requirements
+(5) Capital replacement cost
+(6) Non-mining water user requirements
+(7) Regulatory and company requirements
+(8) Post-mining land capability and use requirements and agreements
+(9) Involvement from non-mining stakeholders
+
+If the results of the closure stage monitoring and performance evaluation require reassessment of the effectiveness of the prevention, mitigation and treatment measures described in the ARD/ML management plan and closure plan, the ARD/ML management plan and/or closure plan are revised and corrective measures are implemented as appropriate.","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Develop and refine ARD/ML management plan → Characterisation
+(3) Develop and refine ARD/ML management plan → Prediction
+(4) Develop and refine ARD/ML management plan → Monitoring plan
+(5) Implement ARD/ML management plan → Integration with mine planning and operations
+(6) Monitor and assess performance → Transparency in data management and reporting","(1) Chapter 6: Prevention and Mitigation
+(2) Chapter 6, Figure 6-1: Options and Effectiveness with Time
+(3) Chapter 6, Figure 6-18: Prevention and Mitigation Evaluation of Alternatives
+(4) Chapter 6, Table 6-7: Summary of Prevention and Mitigative Measures and Climate Considerations
+(5) Chapter 11: Sustainable Mine Closure ",Picture,Picture,Picture,Y
+50,Closure,Develop and refine ARD/ML management plan,Monitoring Program Plan,"During closure, the monitoring focus is on data collection at strategic sampling locations selected to assess the performance of the closure measures in accordance with the ARD/ML management plan and the closure plan. The monitoring program may require revisions to meet the specific objectives of the closure monitoring. In the event of dealing with an existing closed asset (ie legacy asset), available information and data should be reviewed against the requirements of the ARD/ML practices and activities defined in the preceding asset development stages.","(1) Are modifications to the monitoring plan (eg locations, parameters, monitoring methods) required in order to facilitate the assessment of the performance of specific closure measures and to identify the need for adaptive management or to meet specific closure criteria?",The ARD/ML management plan is a dynamic document that is updated as required to incorporate site changes relevant to ARD/ML; the monitoring program is modified accordingly such that the defined objectives of the ARD/ML management plan continue to be met. The closure plan may include specific objectives and requirements related to closure monitoring. ,"(1) ARD/ML management plan 
+(2) Closure plan objectives, outcomes, criteria and agreed post-mining land capabilities and use(s) 
+(3) Monitoring data from previous asset development stages
+(4) Company drainage prediction guidelines/requirements
+(5) Company closure standards
+(6) Applicable regulatory guidelines and site permit requirements","If modifications to the monitoring program are required to meet the objectives of the ARD/ML management plan or the closure plan, the monitoring plan is updated accordingly.","(1) Implement ARD/ML management plan → Integration with mine planning and operations
+(2) Monitor and assess performance → Transparency in data management and reporting
+(3) Continual improvement of ARD/ML practices → Adaptive management
+(4) Integrated closure → Integrated closure","(1) Chapter 8: Monitoring
+(2) Chapter 11: Sustainable Mine Closure",No figure,No figure,No figure,Y
+51,Closure,Develop and refine ARD/ML management plan,"Development and Integration with Mine, Water, Waste, and Closure Plans","The closure stage presents the final opportunity to update and refine the ARD/ML management plan. While the closure plan should have been regularly updated throughout operations to provide for closure execution in this phase, if this has not yet been completed, it is during this stage that there might be the highest reliance on the ARD/ML management plan to inform and support more detailed closure planning. 
+
+Information in the ARD/ML management plan is used to support the implementation of closure measures based on predicted post-closure drainage chemistries from residual mine landforms/facilities. The ARD/ML management plan is updated with new drainage chemistry predictions, final closure ARD/ML prevention and mitigation measures, and information from any additional geochemical characterisation studies (eg closure construction materials).",(1) Are there any changes or updates required to the ARD/ML management plan for the closure stage?,"The closure stage presents the ultimate opportunity to use the information that has been captured in the ARD/ML management plan during preceding stages to support closure planning. It is also critical to update the ARD/ML management plan with the final closure measures (as they relate to ARD/ML prevention and mitigation during the post-closure stage). The updated ARD/ML management plan becomes a record of all ARD/ML related information for the asset, is a consolidated technical reference for the closure plan and is used to communicate ARD/ML prevention and mitigation strategies.","(1) Results from geochemical verification and/or characterisation programs during operations
+(2) New or updated drainage chemistry predictions
+(3) Relevant mine waste and water operational data (eg production records, material masses stored, water volumes managed)
+(4) ARD/ML monitoring data
+(5) Any changes to (integrated) mine waste and water management strategies or measures
+(6) Closure plan, including outcomes, objectives and criteria 
+(7) Regulatory requirements related to ARD/ML management during closure","The ARD/ML management plan is updated during the closure stage to consolidate and be an updated repository of all ARD/ML data, information, measures, and commitments associated with the asset. The updated ARD/ML management plans also acts as a technical reference for ARD/ML components of the closure plan.
+
+The ARD/ML management plan should be updated with the following information:
+(1) Changes to the closure plan, specifically any changes to residual mine landforms/facilities ARD/ML prevention and mitigation measures.
+(2) Results of geochemical verification and characterisation programs (eg closure construction materials).
+(3) ARD/ML management performance assessment.
+
+It is essential that all functions responsible for ARD/ML planning, mine planning, mine waste planning, mine water management planning, closure planning, and social engagement communicate on a regular basis and develop a record of topics discussed, decisions made, required actions, and responsible/accountable parties for execution of those actions.","(1) Develop and refine ARD/ML management plan → All leading practice activities
+(2) Integrated closure → Integrated closure","(1) Chapter 3: Corporate, Regulatory, and Community Framework
+(2) Chapter 9: Acid Rock Drainage Management and Performance Assessment
+(3) Chapter 10: Acid Rock Drainage Communication and Consulting
+(4) Chapter 11: Sustainable Mine Closure",No figure,No figure,No figure,Y
+52,Closure,Implement ARD/ML plan,Integration with Mine Planning and Operations,"The closure measures for ARD/ML management will be incorporated into the ARD/ML management plan and regularly updated throughout the design, construction and operations stages. By the time closure activities are being executed, the closure measures should be clearly defined and based on the current ARD/ML situation and the requirements to achieve the closure outcomes and objectives in the long term. The ARD/ML management plan should clearly identify the closure execution requirements for ARD/ML management including the need for any additional sampling, monitoring or risk assessment.  ",(1) Are mechanisms identified and described to implement the ARD/ML management plan in the closure asset development stage in an integrated way with the closure plan?,"Effective implementation of closure-related ARD/ML management plan, prevention and mitigation measures is critical to the ongoing effective prevention and mitigating of ARD/ML risks during the closure and post-closure asset stage. This will reduce the post-closure ARD/ML risks to meet applicable regulatory requirements, closure objectives, and stakeholder expectations. ","(1) ARD/ML management plan with specific focus on ARD/ML activities identified for the implementation of closure measures.
+(2) Environmental, mine water and mine waste management and monitoring plans with specific focus on ARD/ML management activities that are embedded in these plans.
+(3) Closure plan
+(4) Description of relevant management system structure and activities.
+(5) Standard operating procedures and/or specifications for ARD/ML management activities","The ARD/ML management plan identifies and describes the ARD/ML management activities (eg geochemical verification and characterisation programs of closure construction materials, closure monitoring) that are to be implemented during the closure stage. Where required, the operational management system and standard operating procedures are adjusted to reflect specific closure activities.
+
+Geochemical verification (quality assurance/quality control) and characterisation activities related to closure construction materials are typically captured in the design specifications and/or standard operating procedures for these activities, usually prior to commencement of the closure stage to ensure efficient execution. Reviewing, auditing, and monitoring of the ARD/ML management plan continues to occur during the closure stage. 
+
+Various ARD/ML related assessments, including the evaluation/confirmation of ARD/ML related closure measures and updating of post-closure drainage chemistry predictions, take place during the closure stage. Learnings or adjustments resulting from the implementation of the ARD/ML management activities should be included in the final version of the ARD/ML management plan.
+
+It is essential that all functions responsible for ARD/ML planning, mine planning, mine waste planning, water management planning, closure planning, and social engagement communicate on a regular basis and develop a record of topics discussed, decisions made, required actions, and responsible/accountable parties for execution of those actions.","(1) Define and refine ARD/ML management plan → Development and integration with mine, water, waste, and closure plans
+(2) Monitor and assess performance → Transparency in data management and reporting
+(3) Continual improvement of ARD/ML practices → Adaptive management
+(4) Integrated closure → Integrated closure","(1) Chapter 9: Acid Rock Drainage Management and Performance Assessment
+(2) Chapter 10: Acid Rock Drainage Communication and Consulting
+(3) Chapter 11: Sustainable Mine Closure",No figure,No figure,No figure,Y
+53,Closure,Monitor and assess performance,Transparency in Data Management and Reporting,"The overall mine management plan should incorporate the ARD/ML management strategy so that the site condition at mine closure is consistent with closure objectives. An ARD/ML management plan should provide for the sustained existence and performance of the structures that are required to achieve long-term prevention and mitigation of ARD/ML.
+
+During the closure stage, environmental conditions are compared to results from the predictive models to assess the need for and approach to long-term monitoring. Because there may be significant lag times to the onset of ARD/ML, the absence of ARD/ML issues during operations does not negate the possibility of ARD/ML conditions occurring following closure of the asset.",(1) Does the monitoring plan require modification in order to facilitate the assessment of the performance of specific closure rehabilitation measures?,"Implementation indicators reflect how well the ARD/ML management plan is being executed and how well elements of the plan are performing against expected performance values. Monitoring involves the measurement of implementation and performance in accordance with indicators. Assessment involves the comparison of observed indicator values compared to expected values. If assessment signals that achieved performance indicators vary significantly from the expected values in the ARD/ML management plan, it must be modified to achieve the desired performance (objectives) through the process of adaptive management.","(1) Closure plan
+(2) Operational asset stage monitoring program results, analysis, and interpretation
+(3) Company drainage prediction guidelines/requirements
+(4) Company closure standards and requirements
+(5) Applicable regulatory guidelines
+(6) Adaptive management ","During closure, the geochemical characterisation program is completed, the most robust drainage predictions are available, and the closure rehabilitation measures have been designed. The ARD/ML management activities are focused on implementing the selected closure rehabilitation measures (mitigation, treatment) not already undertaken during progressive closure (aka concurrent closure) and the enhancement or correction of any progressive closure works that have been deemed, through the monitoring and performance assessment, to not meet success criteria.
+
+ARD/ML data and information obtained during the closure stage need to be compiled in a systematic manner in an electronic repository accessible to all functions involved with ARD/ML management. A record should be kept of formal discussions of ARD/ML related topics, decisions made, required actions, and responsible/accountable parties for execution of those actions.","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Define and refine ARD/ML management plan → Characterisation
+(3) Define and refine ARD/ML management plan → Prediction
+(4) Define and refine ARD/ML management plan → Prevention, mitigation, and treatment
+(5) Define and refine ARD/ML management plan → Monitoring plan
+(6) Define and refine ARD/ML management plan → Development and integration with mine, water, waste, and closure plans
+(7) Implement ARD/ML management plan → Integration with mine planning and operations
+(8) Continual improvement of ARD/ML practices → Adaptive management","(1) Chapter 9: Acid Rock Drainage Management and Performance Assessment
+(2) Chapter 11: Sustainable Mine Closure",No figure,No figure,No figure,Y
+54,Closure,Continual improvement of ARD/ML practices,Adaptive Management,"In the closure stage, the monitoring and performance assessment results are used to determine if the operational management practices have been met and the subsequent closure management measures are meeting the defined objectives of the ARD/ML management plan. The adaptive management plan describes the uncertainty to be addressed and the process/activities/timeline to address the uncertainty and fulfil the defined objectives of the ARD/ML management plan. ",(1) Are the management practices in the current asset stage meeting the defined objectives of the ARD/ML management plan?,"If the current defined objectives are not being met, the adaptive management process should be initiated to address and reduce uncertainties. Adaptive management plans are living documents that are continually updated as project or environmental conditions change. The ARD/ML management plan is similarly updated to reflect adaptive management.","(1) ARD/ML management plan and other integrated mine waste and water management plans
+(2) Closure stage monitoring and performance assessment results
+(3) Company drainage prediction guidelines/requirements
+(4) Applicable regulatory guidelines and site permit requirements
+(5) Key performance indicators
+(6) Closure plan","The results of the monitoring program and performance assessment during the closure stage are compared to the results from the predictions of drainage chemistry conducted during previous stages and to the defined objectives, standards and KPIs. Unexpected outcomes are assessed, and learnings are identified that will serve to reduce uncertainty. The adaptive management plan describes the uncertainty to be addressed and the process/activities/timeline to address the uncertainty and fulfil the defined objectives of the ARD/ML management plan. Based on the results of the adaptive management process, the practices described in the integrated closure and ARD/ML management plans are then modified accordingly to better achieve the desired objective of the plans. The monitoring programs are also revised to improve the performance assessment process.","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Define and refine ARD/ML management plan → Characterisation
+(3) Define and refine ARD/ML management plan → Prediction
+(4) Define and refine ARD/ML management plan → Monitoring plan
+(5) Implement ARD/ML management plan → Integration with mine planning and operations 
+(6) Monitor and assess performance → Transparency in data management and reporting","(1) Chapter 6: Prevention and Mitigation
+(2) Chapter 6, Figure 6-4: Adaptive Management Implementation by Phased Approach
+(3) Chapter 11: Sustainable Mine Closure",Picture,No figure,No figure,Y
+55,Closure,Integrated closure,Integrated Closure,"By the end of planned operations, progressive rehabilitation has been completed with a view to efficient implementation of closure activities, subsequent post-closure monitoring and maintenance, and achievement of the planned closure outcome. This approach will minimise the unknowns associated with the transition to closure and associated risks. With respect to ARD/ML management, this approach can serve to minimise potential environmental impacts, costs associated with their mitigation or management, and associated financial liability/reputational risk. During closure, the ARD/ML management activities are focused on implementing the selected closure measures (such as relocation of source material, mitigation, treatment) and on monitoring and performance assessment. ",(1) Are mechanisms identified and documented for ARD/ML leading practice areas and activities that support ongoing closure planning?,"The ARD/ML leading practice areas and activities conducted during the closure stage are focused primarily on implementing the closure aspects of the ARD/ML management plan, monitoring and performance assessment and adaptive management.","(1) ARD/ML management plan developed during operations 
+(2) Closure plan refined during operations
+(3) ARD/ML monitoring data
+(4) Results from assessment of the success of progressive closure measures
+(5) Company drainage prediction guidelines/requirements
+(6) Company closure guidelines/requirements
+(7) Applicable regulatory guidelines
+(8) Risk acceptance by company and stakeholders
+(9) Feedback on closure vision and design from ongoing stakeholder engagement ","During closure, the geochemical characterisation program is completed, the most robust drainage predictions are available, and the closure rehabilitation measures have been designed. The ARD/ML management activities are focused on implementing the selected closure rehabilitation measures (mitigation, treatment) not already undertaken as part of progressive closure and the enhancement or correction of any progressive closure works that have been deemed through the monitoring and performance assessment to not meet success criteria. ","(1) Develop and refine ARD/ML management plan → Characterisation
+(2) Develop and refine ARD/ML management plan → Prediction 
+(3) Develop and refine ARD/ML management plan → Prevention, mitigation, and treatment 
+(4) Implement ARD/ML management plan → Integration with mine planning and operations
+(5) Monitor and assess performance → Transparency in data management and reporting 
+(6) Continual improvement of ARD/ML practices → Adaptive management","(1) Chapter 10: Acid Rock Drainage Communication and Consulting 
+(2) Chapter 11: Sustainable Mine Closure ",No figure,No figure,No figure,Y
+56,Post-Closure,ARD/ML Governance and Strategy,Define ARD/ML Governance and Strategy at Corporate Level,,,,,,,,,,,N
+57,Post-Closure,"ARD/ML Objectives, Standards, and KPIs","Set ARD/ML Objectives, Standards, and KPIs at Asset Level",,,,,,,,,,,N
+58,Post-Closure,Develop and Refine ARD/ML Management Plan,Characterisation,,,,,,,,,,,N
+59,Post-Closure,Develop and Refine ARD/ML Management Plan,Prediction,,,,,,,,,,,N
+60,Post-Closure,Develop and refine ARD/ML management plan,"Prevention, Mitigation, and Treatment","During post closure, the effectiveness of the prevention and mitigation measures is monitored and assessed against the objectives, KPIs, and regulatory and other stakeholder requirements.","(1) Are the objectives, KPIs, requirements, and expectations still applicable to the post closure stage? 
+(2) Do the implemented prevention and mitigation strategies results in compliance with all objectives, KPIs, requirements and expectations?","During the post closure stage, the results of monitoring and performance assessment are used to evaluate the effectiveness of the implemented prevention, mitigation and treatment strategies, and corrective actions are executed as appropriate and documented.","(1) Applicable regulatory guidelines and site permit requirements monitoring results
+(2) Key performance indicators
+(3) Closure plan","If the results of the post closure stage monitoring and performance evaluation require reassessment of the effectiveness of the prevention, mitigation and treatment measures described in the ARD/ML management plan and closure plan, corrective measures are implemented as appropriate and documented.","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Develop and refine ARD/ML management plan → Characterisation
+(3) Develop and refine ARD/ML management plan → Prediction
+(4) Develop and refine ARD/ML management plan → Monitoring plan
+(5) Implement ARD/ML management plan → Integration with mine planning and operations
+(6) Monitor and assess performance → Transparency in data management and reporting",(1) Chapter 11: Sustainable Mine Closure,No figure,No figure,No Figure,Y
+61,Post-Closure,Develop and refine ARD/ML management plan,Monitoring Program Plan,Monitoring during post closure is typically conducted per company and regulatory requirements to assess performance of the closure measures. ,"(1) Are company and regulatory requirements for ARD/ML monitoring defined for closure and post closure activities?
+(2) Are time periods for closure and post closure monitoring activities defined?
+(3) Are modifications to the monitoring plan (eg locations, parameters, monitoring methods) required in order to facilitate the assessment of the performance of specific closure measures and to identify the need for adaptive management?",Post closure monitoring is performed to assess the performance of the rehabilitation design in meeting to the defined closure objectives and company/regulatory requirements and to demonstrate the chemical stability of the mine wastes in the long term. Post closure monitoring may also be used to indicate the need for maintenance to be conducted on the site (eg cover repair). All monitoring activities should be leveraged to identify maintenance needs.,"(1) Closure plan
+(2) Company drainage prediction guidelines/requirements
+(3) Company closure standards
+(4) Applicable regulatory guidelines and site permit requirements
+(5) Monitoring and performance assessment data","The post closure chemical stability monitoring program is tailored to the specific mine site and designed with a representative number of sample locations, frequency, and analytical parameters to assess the performance of the rehabilitation measures and the effect on the receiving environment. For closed assets with ARD/ML potential, it may take decades to consistently demonstrate closure criteria have been achieved and develop an understanding of the long-term trends that show the asset is on a trajectory toward successful closure (or alternatively that further works may be required). Hence, post closure monitoring data should not be viewed in isolation, but periodic review of all available information should be undertaken to allow for an assessment of trends that may not be obvious with datasets from a shorter timeframe. ","(1) Implement ARD/ML management plan → Integration with mine planning and operations
+(2) Monitor and assess performance → Transparency in data management and reporting
+(3) Continual improvement of ARD/ML practices → Adaptive management
+(4) Integrated closure → Integrated closure",(1) Chapter 11: Sustainable Mine Closure,No figure,No figure,No figure,Y
+62,Post-Closure,Develop and Refine ARD/ML Management Plan,"Development and Integration with Mine, Water, Waste, and Closure Plans",,,,,,,,,,,N
+63,Post-Closure,Implement ARD/ML Plan,Integration with Mine Planning and Operations,,,,,,,,,,,N
+64,Post-Closure,Monitor and assess performance,Transparency in Data Management and Reporting,"Monitoring for potential ARD/ML effects typically continues well into the post closure stage because ARD/ML cannot become evident until after a considerable latent or lag period. Longer-term monitoring is frequently associated with the presence of ARD/ML-generating materials. Post closure monitoring is performed to assess the performance of the closure design in meeting to the defined closure objectives and to demonstrate the geochemical stability of the mine wastes in the long term. Post closure monitoring may also be used to indicate the need for maintenance to be conducted on the site (eg cover repair). All post closure monitoring activities should be leveraged to identify maintenance needs.
+
+The success of a mine closure is determined in the post closure stage, in the years to decades after completing the closure works. For assets with potential ARD/ML issues, this is also the time frame over which these issues may become apparent. At the very highest level of durable mine closure planning, closure goals are set for the post closure nature of the site, including environmental targets. In the case of ARD/ML, where acid generation and its impacts may take years or decades to become evident, defining an appropriate temporal component of these success criteria is critical. Success criteria and associated monitoring, particularly related to water quality, may be in place for decades. Understanding whether the asset is on a trajectory toward meeting the closure objectives is of great value and allows for the adjustment of mitigation measures or monitoring, as necessary. ","(1) Are the time periods for closure and post closure monitoring activities properly defined?
+(2) Does the monitoring plan require modification (eg locations, parameters, monitoring methods, frequency) to facilitate the assessment of the performance of specific closure measures and identify leading indicators and triggers for adaptive management?","Post closure monitoring programs often differ from those of the operations stage in that they are focussed on a subset of monitoring stations most relevant to the key closed mine ARD/ML sources and receiving environment. Some parameters may be monitored for a relatively short period of time, until it can be demonstrated that closure success criteria have been met and are durable, or that the concentrations are on a trajectory towards meeting the success criteria. In other cases, longer-term monitoring may be required (eg at assets with ongoing water treatment).","(1) Closure plan
+(2) Operational asset stage and closure stage monitoring program results, analysis, and interpretation
+(3) Company drainage prediction guidelines/requirements
+(4) Company closure standards/requirements
+(5) Applicable regulatory guidelines and site permit requirements
+(6) Adaptive management ","In the post closure stage, the key activities related specifically to ARD/ML can range from a relatively active site presence (and cost) for long-term operation of water management and water treatment to a relatively minimal requirement of periodic monitoring and maintenance of structures. The post closure chemical stability monitoring program is tailored to the specific asset and designed with a representative number of sample locations, frequency, and analytical parameters to assess the performance of the rehabilitation measures and the effect on the receiving environment. For closed assets with ARD/ML potential, it may take decades to consistently demonstrate closure criteria have been achieved and develop an understanding of the long-term trends that show the asset is on a trajectory toward successful closure (or alternatively that further works may be required). Hence, post closure monitoring data should not be viewed in isolation, but periodic review of all available information should be undertaken to allow for an assessment of trends that may not be obvious with datasets from a shorter timeframe. ","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Define and refine ARD/ML management plan → Characterisation
+(3) Define and refine ARD/ML management plan → Prediction
+(4) Define and refine ARD/ML management plan → Prevention, mitigation, and treatment
+(5) Define and refine ARD/ML management plan → Monitoring plan
+(6) Define and refine ARD/ML management plan → Development and integration with mine, water, waste, and closure plans
+(7) Implement ARD/ML management plan → Integration with mine planning and operations
+(8) Continual improvement of ARD/ML practices → Adaptive management","(1) Chapter 9: Acid Rock Drainage Management and Performance Assessment
+(2) Chapter 11: Sustainable Mine Closure",No figure,No figure,No figure,Y
+65,Post-Closure,Continual improvement of ARD/ML practices,Adaptive Management,"In the post closure stage, the monitoring and performance assessment results are used to determine if the management practices are meeting the defined objectives of the ARD/ML management plan. The adaptive management plan describes the uncertainty to be addressed and the process/activities/timeline to address the uncertainty and fulfil the defined objectives of the ARD/ML management plan. ",(1) Are the management practices in the current asset stage meeting the defined objectives of the ARD/ML management plan?,"If the current defined objectives are not being met, the adaptive management process is initiated to address and reduce uncertainties. Adaptive management plans are living documents that are continually updated as project or environmental conditions change. The ARD/ML management plan is similarly updated to reflect adaptive management.","(1) ARD/ML management plan and other integrated mine waste and water management plans
+(2) Post closure stage monitoring and performance assessment results
+(3) Company drainage prediction guidelines/requirements
+(4) Applicable regulatory guidelines and site permit requirements
+(5) Key performance indicators
+(6) Closure plan","The results of the monitoring program and performance assessment during the post closure stage are compared to the results from the predictions of drainage chemistry conducted during previous stages and to the defined objectives, standards, and KPIs. Unexpected outcomes are assessed, and learnings are identified that will serve to reduce uncertainty. The adaptive management plan describes the uncertainty to be addressed and the process/activities/timeline to address the uncertainty and fulfil the defined objectives of the ARD/ML management plan. Based on the results of the adaptive management process, the post closure practices are then modified accordingly to better achieve the desired post closure objectives. The monitoring program is also revised to improve the performance assessment process.","(1) ARD/ML objectives, standards, and KPIs → Set ARD/ML objectives, standards, and KPIs at asset level
+(2) Define and refine ARD/ML management plan → Characterisation
+(3) Define and refine ARD/ML management plan → Prediction
+(4) Define and refine ARD/ML management plan → Monitoring plan
+(5) Implement ARD/ML management plan → Integration with mine planning and operations 
+(6) Monitor and assess performance → Transparency in data management and reporting ","(1) Chapter 6: Prevention and Mitigation
+(2) Chapter 6, Figure 6-4: Adaptive Management Implementation by Phased Approach
+(3) Chapter 11: Sustainable Mine Closure",Picture,No figure,No figure,Y
+66,Post-Closure,Integrated Closure,Integrated Closure,,,,,,,,,,,N

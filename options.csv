@@ -1,0 +1,11 @@
+Exploration,Design,Construction,Operations,Closure ,Post-Closure
+Characterisation,Define ARD/ML governance and strategy at corporate level ,Characterisation,"Set ARD/ML objectives, standards, and KPIs at asset level","Set ARD/ML objectives, standards, and KPIs at asset level","Prevention, mitigation, and treatment"
+Prediction,"Set ARD/ML objectives, standards, and KPIs at asset level","Prevention, mitigation, and treatment",Characterisation,Characterisation,Monitoring program plan
+"Prevention, mitigation, and treatment",Characterisation,Monitoring program plan,Prediction,Prediction,Transparency in data management and reporting
+Monitoring program plan,Prediction,"Development and integration with mine, water, waste, and closure plans","Prevention, mitigation, and treatment","Prevention, mitigation, and treatment",Adaptive management
+"Development and integration with mine, water, waste, and closure plans","Prevention, mitigation, and treatment",Integration with mine planning and operations,Monitoring program plan,Monitoring program plan,
+Integrated closure,Monitoring program plan,Transparency in data management and reporting,"Development and integration with mine, water, waste, and closure plans","Development and integration with mine, water, waste, and closure plans",
+,"Development and integration with mine, water, waste, and closure plans",Adaptive management,Integration with mine planning and operations,Integration with mine planning and operations,
+,Integrated closure,Integrated closure,Transparency in data management and reporting,Transparency in data management and reporting,
+,,,Adaptive management,Adaptive management,
+,,,Integrated closure,Integrated closure,
