@@ -34,7 +34,7 @@ with st.container(width=900,horizontal_alignment="center"):
         selected_Asset_dev_stages=st.radio(
             options=Asset_dev_stages,
             key='Asset_dev_stages',
-            label='Asset development stages'
+            label='**Asset development stages**'
         )
 
     # Filter the activities to those relevant to the chosen stage and that are marked as available
