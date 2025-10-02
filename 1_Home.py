@@ -31,7 +31,7 @@ with st.container(width=900,horizontal_alignment="center"):
     col1, col2, col3 = st.columns([20,40,40])
     with col2:
     # UI control: select one Asset development stage
-        selected_Asset_dev_stages=st.radio(
+        selected_Asset_dev_stages=st.segmented_control(
             options=Asset_dev_stages,
             key='Asset_dev_stages',
             label='**Asset development stages**'
