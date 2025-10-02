@@ -29,13 +29,13 @@ with st.container(width=900,horizontal_alignment="center"):
     with col2:
         st.image("Picture1.png",width=800)
     col1, col2, col3 = st.columns([20,40,40])
-    with col2:
+    
     # UI control: select one Asset development stage
-        selected_Asset_dev_stages=st.segmented_control(
-            options=Asset_dev_stages,
-            key='Asset_dev_stages',
-            label='**Asset development stages**'
-        )
+    selected_Asset_dev_stages=st.segmented_control(
+        options=Asset_dev_stages,
+        key='Asset_dev_stages',
+        label='**Asset development stages**'
+    )
 
     # Filter the activities to those relevant to the chosen stage and that are marked as available
     # (i.e., rows where "Content" is not "N")
@@ -47,12 +47,12 @@ with st.container(width=900,horizontal_alignment="center"):
 
     #st.divider()  # Visual separator for readability
 
-    with col3:
+    
     # UI control: select one Leading practice activity from the filtered list
-        selected_Leading_prac_activity=st.radio(
-            label='**Leading practice activity**',
-            options=available_options,
-            key='Leading_prac_activity'
+    selected_Leading_prac_activity=st.segmented_control(
+        label='**Leading practice activity**',
+        options=available_options,
+        key='Leading_prac_activity'
 
         )
 
