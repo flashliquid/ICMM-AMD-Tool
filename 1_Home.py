@@ -27,9 +27,16 @@ Leading_prac_activity=df['Leading practice activity'].unique()
 
 with st.container(width=900,horizontal_alignment="center"):
     col1, col2, col3 = st.columns([20,60,20])
-with col2:
-    st.image("Picture1.png",width=800)   
-
+    with col2:
+        st.image("Picture1.png",width=800)
+    col1, col2, col3 = st.columns([20,40,40])
+    with col2:
+    # UI control: select one Asset development stage
+        selected_Asset_dev_stages=st.radio(
+            options=Asset_dev_stages,
+            key='Asset_dev_stages',
+            label='Asset development stages'
+        )
 
 with col2:
     
