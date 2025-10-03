@@ -37,32 +37,20 @@ with st.container(width=900,horizontal_alignment="center"):
             key='Asset_dev_stages',
             label='Asset development stages'
         )
-
-with col2:
-    
-    # UI control: select one Asset development stage
-    selected_Asset_dev_stages=st.radio(
-        options=Asset_dev_stages,
-        key='Asset_dev_stages',
-        label='**Asset development stages**'
-    )
-    # Filter the activities to those relevant to the chosen stage and that are marked as available
-    # (i.e., rows where "Content" is not "N")
     available_options=df[(df['Asset development stages']==selected_Asset_dev_stages) & (df['Content']!= "N")]
     available_options=available_options['Leading practice activity'].unique()
-    #st.write("This is available options",available_options)  # Optional: inspect choices for debugging
-with col3:
-# UI control: select one Leading practice activity from the filtered list
-    selected_Leading_prac_activity=st.radio(
-        label='**Leading practice activity**',
-        options=available_options,
-        key='Leading_prac_activity'
+    with col3:
+        # UI control: select one Leading practice activity from the filtered list
+        selected_Leading_prac_activity=st.radio(
+            label='**Leading practice activity**',
+            options=available_options,
+            key='Leading_prac_activity'
 
-        )
-
+            )
 
 
-    #st.divider()  # Visual separator for readability
+
+#st.divider()  # Visual separator for readability
 
     
 
