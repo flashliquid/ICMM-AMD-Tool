@@ -31,7 +31,7 @@ Leading_prac_activity=df['Leading practice activity'].unique()
 with st.container(width=900,horizontal_alignment="center"):
     col1, col2, col3 = st.columns([20,60,20])
     with col2:
-        st.image("MatrixPic.png",width=900)
+        st.image("MatrixPic.png",width=1000)
     col1, col2, col3 = st.columns([20,40,40])
     with col2:
     # UI control: select one Asset development stage
