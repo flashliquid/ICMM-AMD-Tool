@@ -1,10 +1,10 @@
 import streamlit as st  
-import pathlib
+from pathlib import Path
 import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.styles import Alignment
 st.set_page_config(layout="wide")
-GRlogo = str(Path(__file__).parent.parent/ "RGS_logo.png")
+GRlogo = str(Path(__file__).parent/ "RGS_logo.png")
 st.logo(GRlogo,size="large")
 st.subheader("ICMM and INAP ARD/ML Decision Support System",divider = 'grey')
 #st.write("--------------------------------")
