@@ -6,7 +6,7 @@ from openpyxl.styles import Alignment
 st.set_page_config(layout="wide")
 GRlogo = str(Path(__file__).parent/ "RGS_logo.png")
 st.logo(GRlogo,size="large")
-st.subheader("ICMM and INAP ARD/ML Decision Support System",divider = 'grey')
+st.subheader("ARD/ML Prevention and Management Tool",divider = 'grey')
 #st.write("--------------------------------")
 
 link = '[INAP/ICMM](https://www.icmm.com/en-gb/guidance/environmental-stewardship/2025/ardml)'
