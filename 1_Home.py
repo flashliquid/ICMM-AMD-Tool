@@ -4,7 +4,7 @@ import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.styles import Alignment
 st.set_page_config(layout="wide")
-GRlogo = str(Path(__file__).parent/ "RGS_logo.png")
+GRlogo = str(Path(__file__).parent/ "small SRK Australia logo.png")
 st.logo(GRlogo,size="large")
 st.subheader("ARD/ML Prevention and Management Tool",divider = 'grey')
 #st.write("--------------------------------")
